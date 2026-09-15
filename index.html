@@ -2,386 +2,533 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Graha-Bhedam Finder</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Graha Bhedam Finder</title>
   <style>
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
 
-body {
-  background-color: #d8f8b0;
-  padding: 12px;
-  color: #000;
-}
+    body {
+      background-color: #d8f8b0;
+      padding: 12px;
+      color: #000;
+    }
 
-.main-container {
-  max-width: 1200px;
-  margin: 0 auto;
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-}
+    .main-container {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
 
-/* Banner */
-.banner {
-  background-color: #d81b60;
-  color: white;
-  text-align: center;
-  padding: 10px 15px;
-  max-width: 480px;
-  margin: 0 auto;
-  box-shadow: 2px 3px 6px rgba(0,0,0,0.25);
-  border-radius: 4px;
-  width: 100%;
-}
+    /* Fluid Title & Banner */
+    .header-section {
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 6px;
+    }
 
-.banner h1 {
-  font-size: 20px;
-  letter-spacing: 1px;
-  font-weight: bold;
-  text-transform: uppercase;
-  font-family: 'Times New Roman', Times, serif;
-}
+    .main-title {
+      font-size: clamp(20px, 5vw, 26px);
+      font-weight: 800;
+      color: #1e293b;
+      letter-spacing: -0.5px;
+    }
 
-.banner .note-box {
-  background-color: #4a151b;
-  color: #fff;
-  font-size: 11px;
-  font-weight: bold;
-  padding: 3px 10px;
-  display: inline-block;
-  margin-top: 5px;
-}
+    .banner {
+      background-color: #d81b60;
+      color: white;
+      padding: 6px 14px;
+      border-radius: 6px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
 
-/* Controls Panel */
-.controls-panel {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 15px;
-  flex-direction: column;
-}
+    .banner-text {
+      font-size: clamp(12px, 3vw, 14px);
+      letter-spacing: 0.8px;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
 
-/* Scrollable Swara Wrapper for Mobile */
-.swara-grid-wrapper {
-  width: 100%;
-  overflow-x: auto;
-  padding-bottom: 8px;
-  display: flex;
-  justify-content: center;
-  -webkit-overflow-scrolling: touch;
-}
+    .banner .note-box {
+      background-color: #4a151b;
+      color: #fff;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 4px;
+      letter-spacing: 0.3px;
+    }
 
-.swara-grid {
-  display: grid;
-  grid-template-columns: repeat(13, minmax(36px, 1fr));
-  grid-template-rows: repeat(2, 44px);
-  gap: 4px;
-  min-width: 500px; /* Prevents buttons from squishing below readable sizes */
-}
+    /* Controls Container */
+    .controls-panel {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+      width: 100%;
+    }
 
-.swara-btn {
-  background-color: #a8d8fc;
-  border: 1px solid #336699;
-  color: #000;
-  font-weight: bold;
-  font-size: 13px;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  box-shadow: 2px 2px 3px rgba(0,0,0,0.25);
-  user-select: none;
-  border-radius: 3px;
-  touch-action: manipulation;
-}
+    /* Swara Grid with Touch-friendly Scroll */
+    .swara-grid-wrapper {
+      width: 100%;
+      overflow-x: auto;
+      display: flex;
+      justify-content: center;
+      padding: 4px 0;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: thin;
+    }
 
-.swara-btn:hover {
-  background-color: #8cc2f2;
-}
+    .swara-grid {
+      display: grid;
+      grid-template-columns: repeat(13, 40px);
+      grid-template-rows: repeat(2, 38px);
+      gap: 4px;
+      justify-content: center;
+      min-width: 568px; /* Ensures keyboard geometry remains intact on mobile */
+    }
 
-.swara-btn.selected {
-  background-color: #ffcc00 !important;
-  color: #331f00 !important;
-  border: 2px solid #b8860b !important;
-  box-shadow: inset 2px 2px 4px rgba(0,0,0,0.4) !important;
-  font-weight: 900 !important;
-}
+    .swara-btn {
+      background-color: #a8d8fc;
+      border: 1px solid #336699;
+      color: #000;
+      font-weight: 700;
+      font-size: 13px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 2px 3px rgba(0,0,0,0.15);
+      user-select: none;
+      transition: all 0.12s ease;
+      border-radius: 6px;
+      touch-action: manipulation;
+    }
 
-/* Action Buttons Container */
-.action-panel {
-  display: flex;
-  gap: 10px;
-  width: 100%;
-  justify-content: center;
-  flex-wrap: wrap;
-}
+    .swara-btn:hover {
+      background-color: #8cc2f2;
+    }
 
-.match-btn-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 160px);
-  gap: 8px;
-}
+    .swara-btn.selected {
+      background-color: #ffcc00 !important;
+      color: #331f00 !important;
+      border: 2px solid #b8860b !important;
+      box-shadow: inset 0 2px 4px rgba(0,0,0,0.3), 0 0 6px rgba(255, 204, 0, 0.5) !important;
+      font-weight: 800 !important;
+    }
 
-.btn-action {
-  background-color: #555555;
-  color: #ffffff;
-  border: 1px solid #333333;
-  padding: 10px 8px;
-  font-size: 12px;
-  font-weight: bold;
-  cursor: pointer;
-  text-align: center;
-  border-radius: 3px;
-  min-height: 44px;
-}
+    /* Action Panel - Desktop Equal Width Grid */
+    .action-panel {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+      width: 100%;
+      max-width: 650px;
+      margin: 0 auto;
+    }
 
-.btn-action.active-mode {
-  background-color: #1e40af !important;
-  color: #ffffff !important;
-  border: 2px solid #1d4ed8 !important;
-}
+    .stacked-btn-group {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      flex: 1 1 0;
+      min-width: 0;
+    }
 
-.btn-clear {
-  background-color: #d97706;
-  color: #000;
-  border: 1px solid #92400e;
-  font-weight: bold;
-  font-size: 13px;
-  width: 100px;
-  cursor: pointer;
-  padding: 8px;
-  border-radius: 3px;
-  min-height: 44px;
-}
+    .stacked-btn-group .btn-action {
+      min-height: 31px;
+      padding: 4px 6px;
+      font-size: 12px;
+    }
 
-/* Output Area */
-.output-container {
-  background-color: #e0f7fa;
-  border: 1px solid #80deea;
-  min-height: 350px;
-  padding: 14px;
-  border-radius: 4px;
-}
+    .btn-action {
+      border-radius: 8px;
+      padding: 6px 8px;
+      font-weight: 600;
+      line-height: 1.2;
+      cursor: pointer;
+      text-align: center;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.15s ease;
+      background-color: #475569;
+      color: #ffffff;
+      border: 1px solid #334155;
+      user-select: none;
+      touch-action: manipulation;
+    }
 
-.output-header {
-  font-weight: bold;
-  font-size: 15px;
-  color: #006064;
-  margin-bottom: 12px;
-  border-bottom: 2px solid #80deea;
-  padding-bottom: 6px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 8px;
-}
+    .action-panel > .btn-action {
+      flex: 1 1 0;
+      min-width: 0;
+      min-height: 68px;
+      font-size: 13px;
+    }
 
-.db-badge {
-  font-size: 11px;
-  padding: 3px 8px;
-  border-radius: 3px;
-}
-.db-badge.success { background-color: #dcfce7; color: #166534; border: 1px solid #86efac; }
-.db-badge.loading { background-color: #fef9c3; color: #854d0e; border: 1px solid #fde047; }
-.db-badge.error { background-color: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+    .btn-action:hover {
+      background-color: #334155;
+    }
 
-.shift-row {
-  background: #ffffff;
-  border: 1px solid #b2ebf2;
-  border-left: 6px solid #00838f;
-  padding: 12px;
-  margin-bottom: 12px;
-  border-radius: 4px;
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  gap: 16px;
-}
+    .btn-action.active-mode {
+      background-color: #1d4ed8 !important;
+      color: #ffffff !important;
+      border: 2px solid #1e40af !important;
+      box-shadow: inset 0 2px 4px rgba(0,0,0,0.3) !important;
+    }
 
-.shift-meta {
-  width: 210px;
-  flex-shrink: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-}
+    .btn-clear {
+      border-radius: 6px;
+      padding: 4px 4px;
+      font-size: 11px;
+      font-weight: 600;
+      line-height: 1.2;
+      cursor: pointer;
+      text-align: center;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.15s ease;
+      background-color: #d97706;
+      color: #ffffff;
+      border: 1px solid #b45309;
+      flex: 0 0 55px;
+      min-height: 40px;
+      touch-action: manipulation;
+    }
 
-.shift-meta .output-num {
-  font-weight: bold;
-  color: #d81b60;
-  font-size: 14px;
-}
+    .btn-clear:hover {
+      background-color: #b45309;
+    }
 
-.shift-meta .swara-info {
-  font-size: 13px;
-  font-weight: bold;
-  color: #006064;
-}
+    /* Output Section */
+    .output-container {
+      background-color: #e0f7fa;
+      border: 1px solid #80deea;
+      min-height: 380px;
+      padding: 14px;
+      box-shadow: inset 0 0 6px rgba(0,0,0,0.04);
+      border-radius: 8px;
+    }
 
-.btn-audio-play {
-  background-color: #0284c7;
-  color: #ffffff;
-  border: none;
-  padding: 8px 12px;
-  font-size: 12px;
-  font-weight: bold;
-  border-radius: 4px;
-  cursor: pointer;
-  min-height: 38px;
-  width: fit-content;
-}
+    .output-header {
+      font-weight: 700;
+      font-size: 15px;
+      color: #006064;
+      margin-bottom: 12px;
+      border-bottom: 2px solid #80deea;
+      padding-bottom: 8px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
 
-.possibilities-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: 10px;
-  flex: 1;
-  width: 100%;
-}
+    .db-status-container {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
 
-.possibility-card {
-  background-color: #f8fafc;
-  border: 1px solid #cbd5e1;
-  border-radius: 5px;
-  padding: 10px;
-  text-align: center;
-}
+    .db-badge {
+      font-size: 11px;
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+    }
+    .db-badge.success { background-color: #dcfce7; color: #166534; border: 1px solid #86efac; }
+    .db-badge.loading { background-color: #fef9c3; color: #854d0e; border: 1px solid #fde047; }
+    .db-badge.error { background-color: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
 
-.possibility-card.matched-card {
-  background-color: #f0fdf4;
-  border: 2px solid #22c55e;
-}
+    .file-select-label {
+      background-color: #0284c7;
+      color: #ffffff;
+      padding: 5px 10px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 700;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      transition: background-color 0.15s ease;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+      touch-action: manipulation;
+    }
 
-.lbl-possibility { color: #475569; font-size: 12px; margin-bottom: 4px; }
-.scale-line { margin-bottom: 6px; font-size: 13px; }
-.lbl-derived-scale { color: #0284c7; font-weight: bold; font-size: 13px; }
-.swara-scale-val { font-family: monospace; font-weight: 800; font-size: 12px; }
-.lbl-raga { color: #dc2626; font-weight: bold; font-size: 13px; }
-.raga-val-text { font-weight: bold; color: #111827; }
-.no-match-text { color: #64748b; font-weight: bold; font-style: italic; }
+    .file-select-label:hover {
+      background-color: #0369a1;
+    }
 
-/* Mobile Specific Breakpoints */
-@media (max-width: 768px) {
-  body { padding: 8px; }
-  .swara-grid-wrapper { justify-content: flex-start; }
-  .match-btn-grid { grid-template-columns: 1fr; width: 100%; }
-  .action-panel { flex-direction: column; align-items: stretch; }
-  .btn-clear { width: 100%; }
-  .shift-row { flex-direction: column; }
-  .shift-meta { width: 100%; }
-  .possibilities-container { grid-template-columns: 1fr; }
-}
+    /* Shift Rows & Cards */
+    .shift-row {
+      background: #ffffff;
+      border: 1px solid #b2ebf2;
+      border-left: 6px solid #00838f;
+      padding: 12px;
+      margin-bottom: 12px;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      gap: 16px;
+    }
+
+    .shift-meta {
+      width: 210px;
+      flex-shrink: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .shift-meta .output-num {
+      font-weight: 700;
+      color: #d81b60;
+      font-size: 14px;
+    }
+
+    .shift-meta .swara-info {
+      font-size: 13px;
+      font-weight: 700;
+      color: #006064;
+    }
+
+    .btn-audio-play {
+      background-color: #0284c7;
+      color: #ffffff;
+      border: none;
+      padding: 8px 12px;
+      font-size: 12px;
+      font-weight: 700;
+      border-radius: 6px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 5px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+      transition: all 0.15s ease;
+      width: fit-content;
+      touch-action: manipulation;
+    }
+
+    .btn-audio-play:hover {
+      background-color: #0369a1;
+    }
+
+    .possibilities-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 10px;
+      flex: 1;
+      width: 100%;
+    }
+
+    .possibility-card {
+      background-color: #f8fafc;
+      border: 1px solid #cbd5e1;
+      border-radius: 6px;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      text-align: center;
+      transition: all 0.15s ease;
+    }
+
+    .possibility-card.matched-card {
+      background-color: #f0fdf4;
+      border: 2px solid #22c55e;
+      box-shadow: 0 2px 4px rgba(34, 197, 94, 0.15);
+    }
+
+    .lbl-possibility { color: #475569; font-size: 11px; margin-bottom: 4px; }
+    .scale-line { margin-bottom: 6px; font-size: 13px; word-break: break-word; }
+    .lbl-derived-scale { color: #0284c7; font-weight: 700; font-size: 13px; margin-right: 4px; }
+    .swara-scale-val { font-family: monospace; font-weight: 800; font-size: 12px; color: #0f172a; background: #f1f5f9; padding: 2px 4px; border-radius: 3px; border: 1px solid #e2e8f0; display: inline-block; }
+    .raga-line { font-size: 13px; line-height: 1.3; }
+    .lbl-raga { color: #dc2626; font-weight: 700; font-size: 13px; margin-right: 4px; }
+    .raga-val-text { font-weight: 700; color: #111827; }
+    .no-match-text { color: #64748b; font-weight: 600; font-style: italic; }
+
+    .alert-box {
+      background-color: #fef2f2;
+      border: 1px solid #fca5a5;
+      color: #991b1b;
+      padding: 10px;
+      border-radius: 6px;
+      font-weight: 600;
+      font-size: 13px;
+    }
+
+    /* Mobile Layout Optimizations (<= 768px) */
+    @media (max-width: 768px) {
+      body {
+        padding: 8px;
+      }
+
+      .swara-grid-wrapper {
+        justify-content: flex-start;
+      }
+
+      .action-panel {
+        flex-direction: column;
+        max-width: 100%;
+        gap: 8px;
+      }
+
+      .stacked-btn-group {
+        width: 100%;
+        gap: 8px;
+      }
+
+      .stacked-btn-group .btn-action {
+        min-height: 44px;
+        font-size: 13px;
+      }
+
+      .action-panel > .btn-action {
+        width: 100%;
+        min-height: 46px;
+        font-size: 13px;
+      }
+
+      .btn-clear {
+        width: 100%;
+        flex: 1 1 100%;
+        min-height: 42px;
+        font-size: 12px;
+      }
+
+      .shift-row {
+        flex-direction: column;
+        padding: 10px;
+        gap: 12px;
+      }
+
+      .shift-meta {
+        width: 100%;
+      }
+
+      .btn-audio-play {
+        width: 100%;
+        padding: 10px;
+      }
+
+      .possibilities-container {
+        grid-template-columns: 1fr;
+      }
+
+      .db-status-container {
+        width: 100%;
+        justify-content: flex-start;
+      }
+    }
   </style>
 </head>
 <body>
 
 <div class="main-container">
-  <!-- Top Banner -->
-  <div class="banner">
-    <h1>ENTER YOUR RAGA</h1>
-    <div class="note-box">NOTE: It should be a non-vakram entry</div>
+  <div class="header-section">
+    <h1 class="main-title">Graha Bhedam Finder</h1>
+    <div class="banner">
+      <span class="banner-text">ENTER YOUR RAGA</span>
+      <span class="note-box">NOTE: Non-vakram entries only</span>
+    </div>
   </div>
 
-  <!-- Swara Keyboard and Buttons Panel -->
   <div class="controls-panel">
-    <!-- Swara Grid Keyboard -->
-    <div class="swara-grid" id="swaraGrid">
-      <!-- Row 1 -->
-      <button class="swara-btn" style="grid-column: 1; grid-row: 1;" data-pitch="0" data-swara="S">S</button>
-      <button class="swara-btn" style="grid-column: 2; grid-row: 1;" data-pitch="1" data-swara="R1">R1</button>
-      <button class="swara-btn" style="grid-column: 3; grid-row: 1;" data-pitch="2" data-swara="R2">R2</button>
-      <button class="swara-btn" style="grid-column: 4; grid-row: 1;" data-pitch="3" data-swara="G2">G2</button>
-      <button class="swara-btn" style="grid-column: 5; grid-row: 1;" data-pitch="4" data-swara="G3">G3</button>
-      <button class="swara-btn" style="grid-column: 6; grid-row: 1;" data-pitch="5" data-swara="M1">M1</button>
-      <button class="swara-btn" style="grid-column: 7; grid-row: 1;" data-pitch="6" data-swara="M2">M2</button>
-      <button class="swara-btn" style="grid-column: 8; grid-row: 1;" data-pitch="7" data-swara="P">P</button>
-      <button class="swara-btn" style="grid-column: 9; grid-row: 1;" data-pitch="8" data-swara="D1">D1</button>
-      <button class="swara-btn" style="grid-column: 10; grid-row: 1;" data-pitch="9" data-swara="D2">D2</button>
-      <button class="swara-btn" style="grid-column: 11; grid-row: 1;" data-pitch="10" data-swara="N2">N2</button>
-      <button class="swara-btn" style="grid-column: 12; grid-row: 1;" data-pitch="11" data-swara="N3">N3</button>
-      <button class="swara-btn" style="grid-column: 13; grid-row: 1;" data-pitch="12" data-swara="S">S</button>
+    <div class="swara-grid-wrapper">
+      <div class="swara-grid" id="swaraGrid">
+        <button class="swara-btn" style="grid-column: 1; grid-row: 1;" data-pitch="0" data-swara="S">S</button>
+        <button class="swara-btn" style="grid-column: 2; grid-row: 1;" data-pitch="1" data-swara="R1">R1</button>
+        <button class="swara-btn" style="grid-column: 3; grid-row: 1;" data-pitch="2" data-swara="R2">R2</button>
+        <button class="swara-btn" style="grid-column: 4; grid-row: 1;" data-pitch="3" data-swara="G2">G2</button>
+        <button class="swara-btn" style="grid-column: 5; grid-row: 1;" data-pitch="4" data-swara="G3">G3</button>
+        <button class="swara-btn" style="grid-column: 6; grid-row: 1;" data-pitch="5" data-swara="M1">M1</button>
+        <button class="swara-btn" style="grid-column: 7; grid-row: 1;" data-pitch="6" data-swara="M2">M2</button>
+        <button class="swara-btn" style="grid-column: 8; grid-row: 1;" data-pitch="7" data-swara="P">P</button>
+        <button class="swara-btn" style="grid-column: 9; grid-row: 1;" data-pitch="8" data-swara="D1">D1</button>
+        <button class="swara-btn" style="grid-column: 10; grid-row: 1;" data-pitch="9" data-swara="D2">D2</button>
+        <button class="swara-btn" style="grid-column: 11; grid-row: 1;" data-pitch="10" data-swara="N2">N2</button>
+        <button class="swara-btn" style="grid-column: 12; grid-row: 1;" data-pitch="11" data-swara="N3">N3</button>
+        <button class="swara-btn" style="grid-column: 13; grid-row: 1;" data-pitch="12" data-swara="S">S</button>
 
-      <!-- Row 2 -->
-      <button class="swara-btn" style="grid-column: 3; grid-row: 2;" data-pitch="2" data-swara="G1">G1</button>
-      <button class="swara-btn" style="grid-column: 4; grid-row: 2;" data-pitch="3" data-swara="R3">R3</button>
-      <button class="swara-btn" style="grid-column: 10; grid-row: 2;" data-pitch="9" data-swara="N1">N1</button>
-      <button class="swara-btn" style="grid-column: 11; grid-row: 2;" data-pitch="10" data-swara="D3">D3</button>
+        <button class="swara-btn" style="grid-column: 3; grid-row: 2;" data-pitch="2" data-swara="G1">G1</button>
+        <button class="swara-btn" style="grid-column: 4; grid-row: 2;" data-pitch="3" data-swara="R3">R3</button>
+        <button class="swara-btn" style="grid-column: 10; grid-row: 2;" data-pitch="9" data-swara="N1">N1</button>
+        <button class="swara-btn" style="grid-column: 11; grid-row: 2;" data-pitch="10" data-swara="D3">D3</button>
+      </div>
     </div>
 
-    <!-- Action Buttons -->
     <div class="action-panel">
-      <div class="match-btn-grid">
-        <button class="btn-action" id="btn-aarohanam">Match only<br>Aarohanam</button>
-        <button class="btn-action" id="btn-both">Match Aarohanam<br>& Avarohanam</button>
-        <button class="btn-action" id="btn-avarohanam">Match only<br>Avarohanam</button>
-        <button class="btn-action" id="btn-melakarta">Match<br>only Melakartas</button>
+      <div class="stacked-btn-group">
+        <button class="btn-action" id="btn-aarohanam">Match only Aarohanam</button>
+        <button class="btn-action" id="btn-avarohanam">Match only Avarohanam</button>
       </div>
+
+      <button class="btn-action" id="btn-both">Match Aarohanam<br>& Avarohanam</button>
+      <button class="btn-action" id="btn-melakarta">Match<br>only Melakartas</button>
       <button class="btn-clear" id="btn-clear">Clear<br>matches</button>
     </div>
   </div>
 
-  <!-- Output Box Container -->
   <div class="output-container" id="outputArea">
     <div class="output-header">
       <span>Graha Bhedam Results & Matching Ragas</span>
-      <div id="dbStatus" class="db-badge loading">Loading Ragas_Table.csv...</div>
+      <div class="db-status-container">
+        <div id="dbStatus" class="db-badge loading">Loading Ragas_Table.csv...</div>
+        <label class="file-select-label" id="filePickerLabel">
+          📁 Choose CSV File
+          <input type="file" id="csvFileInput" accept=".csv" style="display: none;">
+        </label>
+      </div>
     </div>
-    <p style="color: #555; font-style: italic;">Select swaras on the grid above and click a match button to generate modal shifts and view matching ragas.</p>
-  </div>
-</div>
-
-<div class="swara-grid-wrapper">
-  <div class="swara-grid" id="swaraGrid">
-    <!-- Swara buttons go here -->
+    <p style="color: #555; font-style: italic; font-size: 13px;">Select swaras on the grid above and click a match button to generate modal shifts and view matching ragas.</p>
   </div>
 </div>
 
 <script>
-// Semitone Pitch Mapping Table
 const PITCH_MAP = {
-  0: ["S"],
-  1: ["R1"],
-  2: ["R2", "G1"],
-  3: ["R3", "G2"],
-  4: ["G3"],
-  5: ["M1"],
-  6: ["M2"],
-  7: ["P"],
-  8: ["D1"],
-  9: ["D2", "N1"],
-  10: ["D3", "N2"],
-  11: ["N3"]
+  0: ["S"], 1: ["R1"], 2: ["R2", "G1"], 3: ["R3", "G2"], 4: ["G3"],
+  5: ["M1"], 6: ["M2"], 7: ["P"], 8: ["D1"], 9: ["D2", "N1"],
+  10: ["D3", "N2"], 11: ["N3"]
 };
 
-// Swara relative semitone offsets from S
 const SWARA_SEMITONE_OFFSETS = {
-  'S': 0,
-  'R1': 1,
-  'R2': 2, 'G1': 2,
-  'R3': 3, 'G2': 3,
-  'G3': 4,
-  'M1': 5,
-  'M2': 6,
-  'P': 7,
-  'D1': 8,
-  'D2': 9, 'N1': 9,
-  'D3': 10, 'N2': 10,
-  'N3': 11
+  'S': 0, 'R1': 1, 'R2': 2, 'G1': 2, 'R3': 3, 'G2': 3, 'G3': 4,
+  'M1': 5, 'M2': 6, 'P': 7, 'D1': 8, 'D2': 9, 'N1': 9,
+  'D3': 10, 'N2': 10, 'N3': 11
 };
 
 let ragasDatabase = [];
 let isDatabaseLoaded = false;
 let audioCtx = null;
 
-// Helper to play a single synthesis note
 function playNote(totalSemitoneShift, noteStartTime, noteDuration) {
-  const baseTonicFreq = 220 * Math.pow(2, 7 / 12); // Base S frequency (~329.63 Hz)
+  const baseTonicFreq = 220 * Math.pow(2, 7 / 12);
   const freq = baseTonicFreq * Math.pow(2, totalSemitoneShift / 12);
 
   const osc = audioCtx.createOscillator();
@@ -390,7 +537,6 @@ function playNote(totalSemitoneShift, noteStartTime, noteDuration) {
   osc.type = 'triangle';
   osc.frequency.setValueAtTime(freq, noteStartTime);
 
-  // Envelope for smooth attack & decay
   gain.gain.setValueAtTime(0.001, noteStartTime);
   gain.gain.exponentialRampToValueAtTime(0.3, noteStartTime + 0.04);
   gain.gain.exponentialRampToValueAtTime(0.001, noteStartTime + noteDuration - 0.02);
@@ -402,7 +548,6 @@ function playNote(totalSemitoneShift, noteStartTime, noteDuration) {
   osc.stop(noteStartTime + noteDuration);
 }
 
-// Audio Synthesis Function: Plays Aarohanam, pauses, and plays Avarohanam starting with Upper S
 function playRagaAudio(shiftTonic, scaleArray) {
   if (!audioCtx) {
     audioCtx = new (window.AudioContext || window.webkitAudioContext)();
@@ -411,30 +556,23 @@ function playRagaAudio(shiftTonic, scaleArray) {
     audioCtx.resume();
   }
 
-  // Convert scale swaras to relative semitones
   let semitones = scaleArray.map((swara, idx) => {
-    if (idx === scaleArray.length - 1 && swara === 'S') {
-      return 12; // Upper S (+12 semitones)
-    }
+    if (idx === scaleArray.length - 1 && swara === 'S') return 12;
     return SWARA_SEMITONE_OFFSETS[swara] || 0;
   });
 
-  const noteDuration = 0.35;  // Duration of each note in seconds
-  const pauseDuration = 0.35; // Pause between Aarohanam & Avarohanam
+  const noteDuration = 0.35;
+  const pauseDuration = 0.35;
   const startTime = audioCtx.currentTime;
-
   let currentOffsetTime = 0;
 
-  // 1. Play Aarohanam (Ascending) e.g., [S, R2, G3, P, D2, Upper_S]
   semitones.forEach((semitoneOffset) => {
     playNote(shiftTonic + semitoneOffset, startTime + currentOffsetTime, noteDuration);
     currentOffsetTime += noteDuration;
   });
 
-  // 2. Pause between ascending and descending
   currentOffsetTime += pauseDuration;
 
-  // 3. Play Avarohanam (Descending), starting with Upper S again e.g., [Upper_S, D2, P, G3, R2, S]
   const avarohanamSemitones = [...semitones].reverse();
   avarohanamSemitones.forEach((semitoneOffset) => {
     playNote(shiftTonic + semitoneOffset, startTime + currentOffsetTime, noteDuration);
@@ -442,21 +580,20 @@ function playRagaAudio(shiftTonic, scaleArray) {
   });
 }
 
-// Load CSV from file path or file reader
 function loadDatabaseFromCSV(csvText) {
   ragasDatabase = parseCSV(csvText);
   isDatabaseLoaded = true;
   const dbStatus = document.getElementById('dbStatus');
   if (ragasDatabase.length > 0) {
     dbStatus.className = 'db-badge success';
-    dbStatus.textContent = `✓ Database Active (${ragasDatabase.length} Ragas loaded from Ragas_Table.csv)`;
+    dbStatus.textContent = `✓ Database Loaded (${ragasDatabase.length} Ragas)`;
   } else {
     dbStatus.className = 'db-badge error';
-    dbStatus.textContent = '⚠️ Ragas_Table.csv was empty or invalid.';
+    dbStatus.textContent = '⚠️ CSV loaded, but no valid ragas found.';
   }
 }
 
-// Initial Fetch of Ragas_Table.csv
+// Auto Fetch Attempt
 fetch('Ragas_Table.csv')
   .then(res => {
     if (!res.ok) throw new Error('HTTP Error ' + res.status);
@@ -464,28 +601,24 @@ fetch('Ragas_Table.csv')
   })
   .then(text => loadDatabaseFromCSV(text))
   .catch(err => {
-    console.warn("Automated fetch failed (likely local file:// CORS).", err);
+    console.warn("Automated fetch failed. Use manual file picker.", err);
     const dbStatus = document.getElementById('dbStatus');
     dbStatus.className = 'db-badge error';
-    dbStatus.innerHTML = `
-      <span>⚠️ Could not auto-load Ragas_Table.csv.</span>
-      <label class="file-input-wrapper">
-        <u>Select CSV manually</u>:
-        <input type="file" accept=".csv" onchange="handleFileSelect(event)" style="font-size:11px;">
-      </label>
-    `;
+    dbStatus.textContent = '⚠️ Select Ragas_Table.csv 👉';
   });
 
-function handleFileSelect(event) {
-  const file = event.target.files[0];
-  if (file) {
-    const reader = new FileReader();
-    reader.onload = e => loadDatabaseFromCSV(e.target.result);
-    reader.readAsText(file);
-  }
-}
+// Manual File Selector Event Listener
+document.getElementById('csvFileInput').addEventListener('change', function(e) {
+  const file = e.target.files[0];
+  if (!file) return;
 
-// Parse CSV with header detection
+  const reader = new FileReader();
+  reader.onload = function(evt) {
+    loadDatabaseFromCSV(evt.target.result);
+  };
+  reader.readAsText(file);
+});
+
 function parseCSV(text) {
   const lines = text.split(/\r?\n/);
   if (lines.length < 2) return [];
@@ -542,20 +675,14 @@ function parseCSVRow(line) {
   return row;
 }
 
-// Read Selected Swaras from Keyboard
 function getSelectedSwaraList() {
   const selectedElements = Array.from(document.querySelectorAll('.swara-btn.selected'));
-  const list = [];
-  selectedElements.forEach(btn => {
-    list.push({
-      swara: btn.dataset.swara,
-      pitch: parseInt(btn.dataset.pitch) % 12
-    });
-  });
-  return list;
+  return selectedElements.map(btn => ({
+    swara: btn.dataset.swara,
+    pitch: parseInt(btn.dataset.pitch) % 12
+  }));
 }
 
-// Build Enharmonic Combinations
 function buildScaleCombinations(pitches) {
   const options = pitches.map(p => PITCH_MAP[p]);
   const results = [];
@@ -576,7 +703,6 @@ function buildScaleCombinations(pitches) {
   return results;
 }
 
-// Validate Carnatic Swara Rules
 function isValidCarnaticScale(swaraList) {
   const prefixes = swaraList.map(s => s[0]);
   const uniquePrefixes = new Set(prefixes);
@@ -597,7 +723,6 @@ function normalizeSwaraString(str) {
   return str.trim().replace(/,/g, ' ').split(/\s+/).join(' ').toUpperCase();
 }
 
-// Reverse Avarohanam scale sequence
 function reverseSwaraString(str) {
   if (!str) return '';
   const swaras = str.trim().replace(/,/g, ' ').split(/\s+/);
@@ -605,12 +730,10 @@ function reverseSwaraString(str) {
   return swaras.join(' ').toUpperCase();
 }
 
-// Core Output Renderer
 function computeAndMatch(matchMode, targetButton) {
   const selectedList = getSelectedSwaraList();
   const outputArea = document.getElementById('outputArea');
 
-  // Highlight Active Match Button
   document.querySelectorAll('.btn-action').forEach(b => b.classList.remove('active-mode'));
   if (targetButton) {
     targetButton.classList.add('active-mode');
@@ -619,7 +742,7 @@ function computeAndMatch(matchMode, targetButton) {
   if (!isDatabaseLoaded || ragasDatabase.length === 0) {
     outputArea.innerHTML = `
       <div class="output-header">Graha Bhedam Results</div>
-      <div class="alert-box">Database Error: Ragas_Table.csv is not loaded. Please ensure Ragas_Table.csv is in the directory.</div>
+      <div class="alert-box">Database Error: Please click 'Choose CSV File' above to load Ragas_Table.csv first.</div>
     `;
     return;
   }
@@ -637,7 +760,7 @@ function computeAndMatch(matchMode, targetButton) {
 
   let html = `<div class="output-header">
     <span>Graha Bhedam Results (${matchMode.toUpperCase()} MATCH)</span>
-    <span style="font-size: 13px; color: #00838f;">${totalShifts} Shift Outputs Generated</span>
+    <span style="font-size: 12px; color: #00838f;">${totalShifts} Shift Outputs Generated</span>
   </div>`;
 
   selectedPitches.forEach((shiftTonic, idx) => {
@@ -648,7 +771,6 @@ function computeAndMatch(matchMode, targetButton) {
 
     html += `
       <div class="shift-row">
-        <!-- Left Metadata Column with Single Play Shifted Scale Button -->
         <div class="shift-meta">
           <div class="output-num">Graha Bhedam ${idx + 1} of ${totalShifts} —</div>
           <div class="swara-info">Shift on Swara: ${shiftNoteNames} (+${shiftTonic} semitones)</div>
@@ -659,7 +781,6 @@ function computeAndMatch(matchMode, targetButton) {
           ` : ''}
         </div>
 
-        <!-- Right Side Possibilities Grid -->
         <div class="possibilities-container">
     `;
 
@@ -676,28 +797,19 @@ function computeAndMatch(matchMode, targetButton) {
         const fullScaleStr = fullScaleArr.join(' ');
         const normCandidateStr = normalizeSwaraString(fullScaleStr);
 
-        // Search matching ragas
         const matches = ragasDatabase.filter(raga => {
           const normAaro = normalizeSwaraString(raga.aarohanam);
           const revAvaro = reverseSwaraString(raga.avarohanam);
 
-          if (matchMode === 'aarohanam') {
-            return normAaro === normCandidateStr;
-          } else if (matchMode === 'avarohanam') {
-            return revAvaro === normCandidateStr;
-          } else if (matchMode === 'both') {
-            return normAaro === normCandidateStr && revAvaro === normCandidateStr;
-          } else if (matchMode === 'melakarta') {
-            return raga.isMelakarta && normAaro === normCandidateStr;
-          }
+          if (matchMode === 'aarohanam') return normAaro === normCandidateStr;
+          if (matchMode === 'avarohanam') return revAvaro === normCandidateStr;
+          if (matchMode === 'both') return normAaro === normCandidateStr && revAvaro === normCandidateStr;
+          if (matchMode === 'melakarta') return raga.isMelakarta && normAaro === normCandidateStr;
           return false;
         });
 
         const hasMatchedRaga = matches.length > 0;
-        const ragaNames = hasMatchedRaga
-          ? matches.map(m => m.name).join(', ')
-          : 'NA';
-
+        const ragaNames = hasMatchedRaga ? matches.map(m => m.name).join(', ') : 'NA';
         const cardClass = hasMatchedRaga ? 'possibility-card matched-card' : 'possibility-card';
 
         html += `
@@ -719,8 +831,8 @@ function computeAndMatch(matchMode, targetButton) {
     }
 
     html += `
-        </div> <!-- End possibilities-container -->
-      </div> <!-- End shift-row -->
+        </div>
+      </div>
     `;
   });
 
@@ -733,35 +845,29 @@ function clearMatches() {
   document.getElementById('outputArea').innerHTML = `
     <div class="output-header">
       <span>Graha Bhedam Results & Matching Ragas</span>
-      <div id="dbStatus" class="db-badge ${isDatabaseLoaded ? 'success' : 'loading'}">
-        ${isDatabaseLoaded ? `✓ Database Active (${ragasDatabase.length} Ragas)` : 'Loading Ragas_Table.csv...'}
+      <div class="db-status-container">
+        <div id="dbStatus" class="db-badge ${isDatabaseLoaded ? 'success' : 'loading'}">
+          ${isDatabaseLoaded ? `✓ Database Active (${ragasDatabase.length} Ragas)` : 'Loading Ragas_Table.csv...'}
+        </div>
+        <label class="file-select-label" id="filePickerLabel">
+          📁 Choose CSV File
+          <input type="file" id="csvFileInput" accept=".csv" style="display: none;">
+        </label>
       </div>
     </div>
-    <p style="color: #555; font-style: italic;">Select swaras on the grid above and click a match button to generate modal shifts and view matching ragas.</p>
+    <p style="color: #555; font-style: italic; font-size: 13px;">Select swaras on the grid above and click a match button to generate modal shifts and view matching ragas.</p>
   `;
 }
 
-// Bind Event Listeners
 document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('.swara-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      btn.classList.toggle('selected');
-    });
+    btn.addEventListener('click', () => btn.classList.toggle('selected'));
   });
 
-  document.getElementById('btn-aarohanam').addEventListener('click', function() {
-    computeAndMatch('aarohanam', this);
-  });
-  document.getElementById('btn-both').addEventListener('click', function() {
-    computeAndMatch('both', this);
-  });
-  document.getElementById('btn-avarohanam').addEventListener('click', function() {
-    computeAndMatch('avarohanam', this);
-  });
-  document.getElementById('btn-melakarta').addEventListener('click', function() {
-    computeAndMatch('melakarta', this);
-  });
-
+  document.getElementById('btn-aarohanam').addEventListener('click', function() { computeAndMatch('aarohanam', this); });
+  document.getElementById('btn-both').addEventListener('click', function() { computeAndMatch('both', this); });
+  document.getElementById('btn-avarohanam').addEventListener('click', function() { computeAndMatch('avarohanam', this); });
+  document.getElementById('btn-melakarta').addEventListener('click', function() { computeAndMatch('melakarta', this); });
   document.getElementById('btn-clear').addEventListener('click', clearMatches);
 });
 </script>
