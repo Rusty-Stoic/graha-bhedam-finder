@@ -1,0 +1,974 @@
+Raga,Raga_Class,Melakarta,Aarohanam,Avarohanam
+Kanakāngi,Melakarta,1,S R1 G1 M1 P D1 N1 S, S N1 D1 P M1 G1 R1 S
+Kanakāmbari,Janyam,1,S R1 M1 P D1 S, S N1 D1 P M1 G1 R1 S
+Kanakatodi,Janyam,1,S R1 G1 M1 P D1 S, S N1 D1 P M1 R1 S
+Karnātaka Shuddha Sāveri,Janyam,1,S R1 M1 P D1 S, S D1 P M1 R1 S
+Latantapriya,Janyam,1,S R1 G1 M1 P D1 S, S D1 P M1 R1 S
+Lavangi,Janyam,1,S R1 M1 D1 S, S D1 M1 R1 S
+Megha,Janyam,1,S R1 M1 P D1 N1 D1 P S, S N1 D1 P M1 R1 S
+Rishabhavilāsa,Janyam,1,S R1 M1 P D1 S, S D1 P M1 R1 M1 R1 S
+Sarvashree,Janyam,1,S M1 P S, S P M1 S
+Suddha Mukhāri,Janyam,1,S R1 M1 P D1 S, S N1 D1 P M1 G1 R1 S
+Tatillatika,Janyam,1,S R1 M1 P D1 S, S D1 P M1 R1 S
+Vāgeeshwari,Janyam,1,S R1 G1 M1 P D1 S, S D1 M1 P G1 R1 S
+Rathnāngi,Melakarta,2,S R1 G1 M1 P D1 N2 S, S N2 D1 P M1 G1 R1 S
+Phenadhyuti,Janyam,2,S R1 M1 P D1 P N2 S, S N2 D1 P M1 G1 R1 S
+Ganamukhāri,Janyam,2,S R1 M1 D1 S, S N2 D1 M1 R1 S
+Ratnavarāli,Janyam,2,S R1 M1 P N2 D1 S, S N2 P M1 R1 G1 R1 S
+Revati,Janyam,2,S R1 M1 P N2 S, S N2 P M1 R1 S
+Shreemani,Janyam,2,S R1 G1 P D1 S, S N2 D1 P G1 R1 S
+Shreemati,Janyam,2,S R1 G1 P D1 S, S N2 D1 P G1 R1 S
+Gānamoorti,Melakarta,3,S R1 G1 M1 P D1 N3 S, S N3 D1 P M1 G1 R1 S
+Gānasāmavarāli,Janyam,3,S R1 M1 P D1 N3 S, S N3 D1 P M1 G1 R1 S
+Bhinnapanchamam,Janyam,3,S R1 G1 M1 P D1 N3 S, S N3 D1 P M1 G1 R1 S
+Nādharanjani,Janyam,3,S R1 M1 D1 N3 S, S N3 D1 M1 G1 R1 S
+Poorvavarāli,Janyam,3,S R1 M1 P D1 S, S N3 D1 P M1 G1 R1 S
+Sāmavarāli,Janyam,3,S R1 M1 P D1 N3 S, S N3 D1 P M1 G1 R1 G1 S
+Vanaspati,Melakarta,4,S R1 G1 M1 P D2 N2 S, S N2 D2 P M1 G1 R1 S
+Bhānumati,Janyam,4,N2 S M1 P N2 S, S N2 D2 P M1 G2 R2 S
+Rasāli,Janyam,4,S R1 M1 P D2 N2 S, S D2 P M1 R1 S
+Vanāvali,Janyam,4,S R1 M1 P D2 N2 S, S D2 P M1 R1 S
+Vittalapriya,Janyam,4,S R1 M1 P D2 S, S D2 P M1 R1 S
+Mānavati,Melakarta,5,S R1 G1 M1 P D2 N3 S, S N3 D2 P M1 G1 R1 S
+Manoranjani,Janyam,5,S R1 M1 P D2 N3 S, S N3 D2 P M1 G1 R1 S
+Ghanashyāmalā,Janyam,5,S G1 M1 P D2 S, S D2 N3 P M1 G1 R1 S
+Kunjari,Janyam,5,S R1 M1 P D2 P S, S N3 D2 P M1 G1 R1 S
+Tānaroopi,Melakarta,6,S R1 G1 M1 P D3 N3 S, S N3 D3 P M1 G1 R1 S
+Tanukeerti,Janyam,6,S R1 M1 P N3 S, S N3 D3 N3 P M1 G1 M1 R1 S
+Senāvati,Melakarta,7,S R1 G2 M1 P D1 N1 S, S N1 D1 P M1 G2 R1 S
+Senāgrani,Janyam,7,S R1 G2 R1 M1 G2 M1 P N1 D1 S, S N1 D1 P M1 G2 M1 G2 R1 S
+Bhogi,Janyam,7,S G2 M1 P D1 N1 D1 S, S N1 D1 P M1 G2 S
+Chitthakarshani,Janyam,7,S R1 G2 M1 D1 S, S D1 M1 G2 R1 S
+Navarasa Mālā,Janyam,7,S R1 G2 M1 P D1 S, S N1 D1 P M1 R1 S
+Sindhu Gowri,Janyam,7,S R1 G2 M1 P D1 N1 S, S N1 D1 M1 G2 M1 R1 S
+Hanumatodi,Melakarta,8,S R1 G2 M1 P D1 N2 S, S N2 D1 P M1 G2 R1 S
+Janatodi,Janyam,8,S R1 G2 M P D1 N2 S, S N2 D1 P M G2 R1 S
+Amrita Dhanyāsi,Janyam,8,S R1 G2 M1 P N2 S, S N2 P M1 G2 R1 S
+Asāveri,Janyam,8,S R1 M1 P D1 S, S N2 S P D1 M1 P R1 G2 R1 S
+Bhānuchandrika,Janyam,8,S M1 D1 N2 S, S N2 D1 M1 G1 S
+Bhadratodi,Janyam,8,S R1 G2 M1 D1 S, S N2 D1 P G2 S
+Bhoopālam,Janyam,8,S R1 G2 P D1 S, S D1 P G2 R1 S
+Chandrikatodi,Janyam,8,S G2 M1 P D1 S, S D1 P M1 G2 S
+Deshikatodi,Janyam,8,S G2 M1 P D1 N2 S, S N2 D1 P M1 G2 R1 S
+Dhanyāsi,Janyam,8,S G2 M1 P N2 S, S N2 D1 P M1 G2 R1 S
+Divyamālati,Janyam,8,S G2 M1 P D1 N2 S, S N2 D1 P M1 G2 S
+Ghanta,Janyam,8,S G2 R2 M1 P N2 S, S N2 D1 P M1 G2 R1 S
+Kalāsāveri,Janyam,8,S R1 G2 P N2 S, S N2 P G2 R1 S
+Kanakasāveri,Janyam,8,S R1 M1 P D1 S, S N2 D1 P M1 G2 R1 S
+Nāgavarāli,Janyam,8,S R1 G2 M1 P M1 D1 N2 S, S N2 D1 P M1 G2 R1 S
+Prabhupriya,Janyam,8,S G2 M1 P D1 S, S D1 P M1 G2 S
+Punnāgatodi,Janyam,8,N1 S R1 G2 M1 P, P M1 G2 R1 S N2 D1
+Punnāgavarāli,Janyam,8,N2 S R1 G2 M1 P D1 N2, N2 D1 P M1 G2 R1 S N2
+Shravanamallika,Janyam,8,S G2 M1 P D1 N2 S, S N2 D1 P M1 G2 R1 S
+Sowjanya,Janyam,8,S R1 M1 D1 S, S D1 M1 R1 S
+Shuddha Seemantini,Janyam,8,S R1 G2 M1 P D1 S, S D1 P M1 G2 R1 S
+Shuddha Todi,Janyam,8,S R1 G2 M1 D1 N2 S, S N2 D1 M1 G2 R1 S
+Swarnamalli,Janyam,8,S G2 M1 P D1 N1 S, S N2 D1 P M1 G2 R1 S
+Dhenuka,Melakarta,9,S R1 G2 M1 P D1 N3 S, S N3 D1 P M1 G2 R1 S
+Dhunibhinnashadjam,Janyam,9,S R1 G2 R1 P M1 P N3 S, S D1 P M1 G2 R1 S
+Bhinnashadjam,Janyam,9,S R1 G2 R1 P M1 P N3 S, S D1 P M1 G2 R1 S
+Mohananāta,Janyam,9,S G2 M1 P D1 P M1 P N3 S, S N3 P D1 P M1 G2 S
+Udhaya Ravi Candrikā,Janyam,9,S G2 M1 P N3 S, S N3 P M1 G2 S
+Vasanthatodi,Janyam,9,S R1 G2 M1 D1 N3 S, S N3 D1 M1 R1 S
+Nātakapriya,Melakarta,10,S R1 G2 M1 P D2 N2 S, S N2 D2 P M1 G2 R1 S
+Natābharanam,Janyam,10,S R1 G2 M1 P D2 N2 S, S N2 D2 P M1 G2 R1 S
+Alankārapriya,Janyam,10,S R1 G2 M1 D2 N2 S, S N2 D2 M1 G2 R1 S
+Bhāgyashabari,Janyam,10,S R1 G2 M1 D2 N2 S, S N2 D2 M1 G2 R1 S
+Deeparamu,Janyam,10,S R1 G2 M1 P D2 N2 S, S N2 D2 N2 P M1 G2 R1 S
+Gunāvati,Janyam,10,S R1 M1 P D2 S, S D2 P M1 R1 S
+Hindoladeshikam,Janyam,10,S M1 R1 G2 M1 P D2 N2 S, S P N2 D2 M1 G2 R1 S
+Kanakadri,Janyam,10,S R1 G2 P D2 S, S N2 D2 P M1 G2 R1 S
+Mātangakāmini,Janyam,10,S G2 M1 P D1 N2 S, S N2 D1 P M1 G2 S
+Nātyadhārana,Janyam,10,S R1 M1 P D2 S, S N2 D2 P M1 R1 S
+Niranjana,Janyam,10,S R1 G2 M1 P D2 S, S N2 D2 P M1 G2 R1 S
+Shānthabhāshini,Janyam,10,S R1 G2 M1 P D2 S, S N2 D2 P M1 S
+Shivashakti,Janyam,10,S G2 M1 D2 S, S N2 D2 M1 G2 S
+Sindu Bhairavi,Janyam,10,S R2 G2 M1 G2 P D1 N2 S, N2 D1 P M1 G2 R1 S N2 S
+Kokilapriyaa,Melakarta,11,S R1 G2 M1 P D2 N3 S, S N3 D2 P M1 G2 R1 S
+Kokilāravam,Janyam,11,S R1 M1 P D2 N3 S, S N3 D2 P M1 G2 R2 S
+Chitramani,Janyam,11,S R1 M1 P D2 N3 S, S N3 D2 P M1 G2 R1 S
+Jnānachintāmani,Janyam,11,S R1 M1 D2 N3 S, S N3 D2 P M1 R1 S
+Kowmāri,Janyam,11,S R1 G2 M1 P D2 S, S N3 D2 P M1 G2 R1 S
+Shuddha Lalitha,Janyam,11,S P M1 D2 N3 S, S N3 S D2 P M1 G2 R1 S
+Vardhani,Janyam,11,S G2 M1 P M1 P D2 N3 S, S N3 D2 P M1 G2 R1 S
+Vasantamalli,Janyam,11,S G2 M1 P N3 S, S D2 P M1 G2 S
+Vasantanārāyani,Janyam,11,S R1 G2 M1 P S, S N3 D2 P M1 G2 R1 S
+Rupavati,Melakarta,12,S R1 G2 M1 P D3 N3 S, S N3 D3 P M1 G2 R1 S
+Rowpyanaka,Janyam,12,S M1 P D3 N3 S, S N3 P M1 G2 R1 S
+Shyāmakalyāni,Janyam,12,S M1 G2 M1 P D3 N3 S, S N3 P D3 N3 P M1 G2 R1 S
+Gāyakapriya,Melakarta,13,S R1 G3 M1 P D1 N1 S, S N1 D1 P M1 G3 R1 S
+Geya Hejjajji,Janyam,13,S R1 M1 G3 M1 P D1 S, S N3 D1 P M1 G3 R1 S
+Hejjajji,Janyam,13,S R1 G3 M1 P D1 S, S N1 D1 P M1 G3 R1 S
+Kalākānti,Janyam,13,S R1 G3 M1 D1 N1 S, S N1 D1 P G3 R1 S
+Kalkada,Janyam,13,S R1 G3 P D1 N1 S, S N1 D1 P M1 G3 R1 S
+Kalpanadhārini,Janyam,13,S G3 M1 P D1 S, S N1 D1 P M1 G3 R1 S
+Vakulābharanam,Melakarta,14,S R1 G3 M1 P D1 N2 S, S N2 D1 P M1 G3 R1 S
+Vātee Vasantabhairavi,Janyam,14,S R1 G3 M1 D1 N2 S, S N2 D1 M1 G3 R1 S
+Āhiri,Janyam,14,S R1 S G3 M1 P D1 N2 S, S N2 D1 P M1 G3 R1 S
+Amudhasurabhi,Janyam,14,S M1 G3 M1 P D1 S, S N2 D1 P M1 R1 S
+Devipriya,Janyam,14,S G3 P N2 S, S N2 D1 P M1 G3 R1 S
+Kalindaja,Janyam,14,S R1 G3 M1 P N2 S, S N2 P M1 G3 R1 S
+Kuvalayabharanam,Janyam,14,S R1 G3 M1 D1 N1 S, S N1 D1 M1 G3 R1 S
+Sallapa,Janyam,14,S G3 M1 D1 N2 S, S N2 D1 M1 G3 S
+Surya,Janyam,14,S G3 M1 D1 N2 S, S N2 D1 M1 G3 S
+Soma,Janyam,14,S R1 P M1 D1 N2 S, S N2 D1 M1 P M1 G3 R1 S
+Shuddha Kāmbhoji,Janyam,14,S G3 R1 M1 P N2 S, S N2 P M1 G3 R1 S
+Vasantabhairavi,Janyam,14,S R1 G3 M1 D1 N2 S, S N2 D1 M1 G3 R1 S
+Vasanta Mukhāri,Janyam,14,S M1 G3 M1 P D1 N2 S, S N2 D1 P M1 G3 R1 S
+Vijayollāsini,Janyam,14,S R1 G3 M1 P M1 D1 N2 S, S N2 D1 P M1 G3 R1 S
+Māyamālava Gowla,Melakarta,15,S R1 G3 M1 P D1 N3 S, S N3 D1 P M1 G3 R1 S
+Ardhradesi,Janyam,15,S R1 G3 M1 P D1 N3 S, S D1 P M1 G3 R1 S
+Bhāvini,Janyam,15,S G3 M1 P D1 N3 S, S N3 D1 P M1 G3 S
+Bibhās,Janyam,15,S R1 G3 P D1 S, S D1 P M1 R1 S
+Bowli,Janyam,15,S R1 G3 P D1 S, S N3 D1 P G3 R1 S
+Bowli Rāmakriya,Janyam,15,S R1 G3 P D1 S, S N3 P D1 P M1 G3 R1 S
+Chāruvardhani,Janyam,15,S R1 M1 P D1 N3 S, S D1 P M1 G3 R1 S
+Chāyagowla,Janyam,15,S R1 M1 G3 M1 P N3 S, S N3 D1 P M1 G3 R1 S
+Chandrachooda,Janyam,15,S M1 G3 M1 P D1 S, S N3 D1 P M1 G3 S
+Deshyagowla,Janyam,15,S R1 P D1 N3 S, S N3 D1 P R1 S
+Devaranji,Janyam,15,S M1 P D1 P N3 S, S N3 D1 P M1 S
+Ekakshari,Janyam,15,S R1 G3 M1 P D1 N3 S, S N1 P M1 R1 G3 M1 R1 S
+Ghanasindhu,Janyam,15,S M1 G3 M1 P D1 N3 D1 S, S N3 D1 P M1 G3 R1 S
+Gowla,Janyam,15,S R1 M1 P N3 S, S N3 P M1 R1 G3 M1 R1 S
+Gowlipantu,Janyam,15,S R1 M1 P N3 S, S N3 D1 P M1 D1 M1 G3 R1 S
+Gowri,Janyam,15,S R1 M1 P N3 S, S N3 D1 P M1 G3 R1 S
+Gummakāmbhoji,Janyam,15,S R1 G3 P D1 N3 S, S N3 D1 P M1 G3 R1 S
+Gundakriya,Janyam,15,S R1 M1 P N3 S, S N3 P D1 P M1 G3 R1 S
+Gurjari,Janyam,15,S R1 G3 M1 P D1 N3 S, S D1 N3 P M1 G3 R1 S
+Jaganmohini,Janyam,15,S G3 M1 P N3 S, S N3 P M1 G3 R1 S
+Kalyānakesari,Janyam,15,S R1 G3 P D1 S, S D1 P G3 R1 S
+Kannadabangāla,Janyam,15,S R1 M1 G3 M1 D1 P D1 S, S D1 P M1 G3 R1 S
+Karnātaka Sāranga,Janyam,15,S R1 G3 M1 P D1 N3 S, S N3 D1 P M1 R1 S
+Lalitā,Janyam,15,S R1 G3 M1 D1 N3 S, S N3 D1 M1 G3 R1 S
+Lalitapanchamam,Janyam,15,S R1 G3 M1 D1 N3 S, S N3 D1 M1 P M1 G3 R1 S
+Mālavakurinji,Janyam,15,S G3 P D1 N3 S, S N3 D1 M1 R1 S
+Mālavapanchamam,Janyam,15,S R1 G3 M1 P N3 S, S N3 D1 P M1 G3 R1 S
+Mārgadesi,Janyam,15,S R1 G3 R1 G3 D1 M1 P D1 S, S D1 P M1 G3 R1 S
+Malahari,Janyam,15,S R1 M1 P D1 S, S D1 P M1 G3 R1 S
+Mallikavasantam,Janyam,15,S G3 M1 P N3 S, S N3 D1 P M1 G3 R1 S
+Mangalakaishiki,Janyam,15,S R1 M1 G3 D1 P S, S N3 D1 P M1 G3 R1 S
+Manolayam,Janyam,15,S R1 M1 P D1 S, S N3 D1 P M1 R1 S
+Maruva,Janyam,15,S G3 M1 D1 N3 S, S N3 D1 P G3 M1 G3 R1 S R1 G3 R1 S
+Mechabowli,Janyam,15,S R1 G3 P D1 S, S N3 D1 P M1 G3 R1 S
+Megharanjani,Janyam,15,S R1 G3 M1 N3 S, S N3 M1 G3 R1 S
+Nādhanāmakriya,Janyam,15,S R1 G3 M1 P D1 N3, N3 D1 P M1 G3 R1 S N3
+Pādi,Janyam,15,S R1 M1 P N3 S, S N3 P D1 P M1 R1 S
+Pharaju (Paras),Janyam,15,S G3 M1 P D1 N3 S, S N3 D1 P M1 G3 R1 S
+Poornalalita,Janyam,15,S R1 G3 M1 P D1 S, S D1 P M1 G3 R1 S
+Poorvi,Janyam,15,S R1 G3 M1 D1 N3 S, S N3 D1 P M1 G3 R1 S
+Poorvikavasanta,Janyam,15,S M1 G3 M1 D N3 S, S N3 D1 M1 P M1 G3 R1 S
+Pratāpadhanyāsi,Janyam,15,S G3 M1 P N3 S, S N3 D1 P M1 G3 R1 S
+Pratāparanjani,Janyam,15,S R1 M1 P D1 N3 S, S N3 D1 P M1 G3 R1 S
+Puranirmai,Janyam,15,S R1 G3 P D1 S, S N3 D1 P G3 R1 S
+Rāmakali,Janyam,15,S R1 G3 P D1 S, S N3 D1 P M1 G3 R1 S
+Rāmakriya,Janyam,15,S G3 M1 P D1 N3 S, S N3 P D1 P M1 G3 R1 S
+Revagupti,Janyam,15,S R1 G3 P D1 S, S D1 P G3 R1 S
+Rukhmāmbari,Janyam,15,S R1 G3 P N3 S, S N3 P G3 R1 S
+Sāmantadeepara,Janyam,15,S R1 G3 M1 P N3 S, S N3 P M1 G3 R1 S
+Sāranga Nāta,Janyam,15,S R1 M1 P D1 S, S N3 S D1 P M1 G3 R1 S
+Sāveri,Janyam,15,S R1 M1 P D1 S, S N3 D1 P M1 G3 R1 S
+Salanganāta,Janyam,15,S R1 M1 P D1 S, S D1 P G3 R1 S
+Satyāvati,Janyam,15,S G3 R1 G3 P D1 S, S N3 D1 N3 P D1 P G3 R1 S
+Sindhu Rāmakriya,Janyam,15,S G3 M1 P D1 N3 S, S N3 P M1 G3 R1 G3 S
+Surasindhu,Janyam,15,S M1 G3 M1 P D1 N3 D1 S, S N3 D1 P M1 R1 G3 R1 S
+Tārakagowla,Janyam,15,S G3 M1 D1 N3 S, S N3 D1 M1 G3 S
+Takka,Janyam,15,S R1 S G3 M1 G3 P M1 D1 N3 S, S N3 D1 P M1 G3 R1 S
+Ushāvali,Janyam,15,S R1 M1 P D1 S, S N3 D1 M1 P M1 R1 S
+Vishārada,Janyam,15,S R1 M1 P N3 S, S N3 P M1 R1 S
+Chakravākam,Melakarta,16,S R1 G3 M1 P D2 N2 S, S N2 D2 P M1 G3 R1 S
+Toyavegavāhini,Janyam,16,S R1 G3 M1 P D2 N2 S, S N2 D2 P M1 G3 R1 S
+Āhir Bhairavi,Janyam,16,S R1 G3 M1 P N2 D2 M1 P D2 S, S N2 D2 P M1 P G3 R1 S
+Bhakthapriya,Janyam,16,S G3 M1 P D2 N2 S, S N2 D2 P M1 R1 M1 G3 S
+Bhujāngini,Janyam,16,S R1 G3 M1 D2 N2 S, S N2 D2 M1 G3 R1 S
+Bindhumālini,Janyam,16,S G3 R1 G3 M1 P N2 S, S N2 S D2 P G3 R1 S
+Chakranārāyani,Janyam,16,S R1 M1 P D2 N2 S, S N2 D2 P M1 R1 S
+Ghoshini,Janyam,16,S M1 G3 M1 P D2 N2 D2 S, S N2 D2 P M1 G3 R1 S
+Guhapriya,Janyam,16,S R1 G3 M1 P P M1 D2 N2 S, S N2 D2 P M1 G3 S R1 S
+Kalāvati,Janyam,16,S R1 M1 P D2 S, S D2 P M1 G3 R1 S
+Kokilā,Janyam,16,S R1 G3 M1 D2 N2 S, S N2 D2 M1 G3 R1 S
+Malayamārutam,Janyam,16,S R1 G3 P D2 N2 S, S N2 D2 P G3 R1 S
+Mukthāngi,Janyam,16,S R1 G3 M1 P D2 N2 S, S D2 N2 P M1 G3 R1 S
+Mukundamālini,Janyam,16,S R1 G2 P D2 S, S D2 P G2 R1 S
+Poornapanchamam,Janyam,16,P M1 S R1 S M1 P D2, D2 P M1 G3 R1 S N2
+Pravritti,Janyam,16,S G3 M1 P D2 N2 S, S N2 D2 P M1 G3 S
+Rāgamanjari,Janyam,16,S R1 M1 P D2 S, S N2 D2 M1 R1 S
+Rasikaranjani,Janyam,16,S R1 G3 P S, S D2 P G3 R1 S
+Shree Nabhomārgini,Janyam,16,S G3 M1 P D2 N2 S, S D2 P M1 G3 R1 S
+Shyāmali,Janyam,16,S G3 P D2 N2 S, S N2 D2 P G3 R1 S
+Subhāshini,Janyam,16,S D2 N2 D R1 G3 M1 P, M1 G3 R1 S N2 D2 N2 S
+Valaji,Janyam,16,S G3 P D2 N2 S, S N2 D2 P G3 S
+Veenadhāri,Janyam,16,S R1 G3 P D2 N2 S, S N2 D2 P M1 G3 R1 S
+Vegavāhini,Janyam,16,S R1 G3 M1 D2 N2 D2 S, S N2 D2 P M1 G3 R1 S
+Sooryakāntam,Melakarta,17,S R1 G3 M1 P D2 N3 S, S N3 D2 P M1 G3 R1 S
+Chāyāvathi,Janyam,17,S R1 G3 M1 D2 N3 S, S N3 D2 P M1 G3 R1 S
+Bhairavam,Janyam,17,S R1 G3 M1 P D2 N3 S, S D2 P M1 G3 R1 S
+Haridarpa,Janyam,17,S R1 G3 M1 P D2 N3 S, S D2 P M1 R1 S
+Jayasamvardhani,Janyam,17,S G3 M1 P D2 N3 S, S N3 P M1 G3 R1 S
+Jeevantikā,Janyam,17,S R1 M1 P D2 N3 S, S N3 D2 P M1 R1 S
+Kusumamāruta,Janyam,17,S M1 P D2 N3 S, S N3 D2 P M1 G3 R1 G3 M1 S
+Nāgachooḍāmani,Janyam,17,S R1 G3 M1 P D2 S, S D2 N2 D2 P M1 G3 M1 R2 S
+Rohini,Janyam,17,S R1 G2 M1 M2 D2 N2 S, S N2 D2 M2 M1 G2 R1 S
+Sāmakannada,Janyam,17,S R2 M1 G2 M1 P D2 N3 S, S N3 D2 P M1 R1 S
+Sowrāshtram,Janyam,17,S R1 G3 M1 P M1 D2 N3 S, S N3 D2 N2 D2 P M1 G3 R1 S
+Suddha Gowla,Janyam,17,S R1 M1 P N3 S, S N3 P M1 R1 S
+Supradeepam,Janyam,17,S R1 M1 P D2 N3 S, S N3 D2 P M1 G3 M1 R1 S
+Vasanthā,Janyam,17,S M1 G3 M1 D2 N3 S, S N3 D2 M1 G3 R1 S
+Hatakāmbari,Melakarta,18,S R1 G3 M1 P D3 N3 S, S N3 D3 P M1 G3 R1 S
+Jayashuddhamālavi,Janyam,18,S R1 G3 M1 P N3 S, S N3 D3 P M1 G3 R1 S
+Hamsanantini,Janyam,18,S G3 M1 P S, S P M1 G3 R1 S
+Kallola,Janyam,18,S P D3 N3 S, S N3 D3 P M1 G3 R1 S
+Simhala,Janyam,18,S R1 G3 M1 P D3 N3 S, S N3 D3 N3 P M1 G3 R1 S
+Jhankāradhvani,Melakarta,19,S R2 G2 M1 P D1 N1 S, S N1 D1 P M1 G2 R2 S
+Jhankārabhramari,Janyam,19,S R2 G2 M1 P D1 N1 D1 P D1 S, S N1 D1 P M1 G2 R2 S
+Jhankārabhramari,Janyam,19,S R2 G2 M1 P D1 S, S N1 D1 P M1 G2 R2 S
+Jhankārabhramari,Janyam,19,S R2 G2 M1 P D1 N1 D1 S, S D1 P M1 G2 R2 S
+Jhankārabhramari,Janyam,19,S R2 G2 M1 P D1 N1 D1 S, S N1 D1 P M1 G2 R2 S
+Jhankārabhramari,Janyam,19,S G R2 G2 M1 P D1 N1 D1 S, S N1 D1 P M1 G2 R2 G R2 S
+Jhankārabhramari,Janyam,19,S R2 G2 M1 P D1 N1 D1 S, D1 N1 D1 P M1 G2 R2 S
+Bhārati,Janyam,19,S R2 G2 M1 P S, S P M1 G2 R2 S
+Jalmika,Janyam,19,S R2 G1 M1 P D1 N1 S, S N1 D1 P M1 G1 S R2 S
+Lalitabhairavi,Janyam,19,S G2 M1 P D1 S, S N1 D1 P M1 G2 R2 S
+Poornalalita,Janyam,19,"S G2 R2 M1 P S, S G2 R2 G2 R2 M1 P S, S R2 G2 R2 M1 P S, S R2 G2 M1 P S, S G2 R2 G2 M1 P S"," S N1 D1 P M1 G2 R2 S, S N1 D1 P M1 G2 R2 S, S N1 D1 P M1 G2 R2 S, S N1 D1 P M1 G2 R2 S, S N1 D1 P M1 G2 R2 S"
+Natabhairavi,Melakarta,20,S R2 G2 M1 P D1 N2 S, S N2 D1 P M1 G2 R2 S
+Nārērētigowla,Janyam,20,S R1 G2 M1 P D1 N2 S, S R2 D1 P M1 G2 R2 S
+Anandabhairavi,Janyam,20,S G2 R2 G2 M1 P D2 P S, S N2 D2 P M1 G2 R2 S
+Amrithavāhini,Janyam,20,S R2 M1 P D1 N2 S, S N2 D1 M1 G2 R2 S
+Bhairavi,Janyam,20,S G2 R2 G2 M1 P D2 N2 S, S N2 D1 P M1 G2 R2 S
+Bhuvanagāndhāri,Janyam,20,S R2 M1 P N2 S, S N2 D1 P M1 G2 S
+Chapagantarva,Janyam,20,S G2 M1 P N2, D1 M1 G2 R2 S N2
+Darbāri Kānada,Janyam,20,N2 S R2 G2 R2 S M1 P D1 N2 S, S D1 N2 P M1 P G2 M1 R2 S
+Devakriya,Janyam,20,S R2 M1 P N2 S, S N2 D1 N P M1 G2 R2 S
+Dhanashree,Janyam,20,N2 S G2 M1 P N2 S, S N2 D1 P M1 G2 R1 S
+Dharmaprakāshini,Janyam,20,S R2 M1 P N2 S, S N2 D1 M1 G2 R2 S
+Dilipika Vasantha,Janyam,20,S G2 M1 P D1 P N2 S, S D1 P M1 R2 S
+Divyagāndhāri,Janyam,20,S G2 M1 P D1 N2 S, S N2 P M1 G2 S
+Gopikāvasantam,Janyam,20,S R2 G2 M1 P D1 P N2, S N2 D1 P M1 G2 R2 S
+Hindolam,Janyam,20,S G2 M1 D1 N2 S, S N2 D1 M1 G2 S
+Hindolavasanta,Janyam,20,S G2 M1 P D1 N2 D1 S, S N2 D1 P M1 D2 M1 G2 S
+Indughantarava,Janyam,20,S G2 M1 P D1 P, N2 D1 P M1 G2 R2 S N2
+Jayanthashrī,Janyam,20,S G2 M1 D1 N2 S, S N2 D1 M1 P M1 G2 S
+Jingaḷa,Janyam,20,S R2 G2 M1 P D1 N2 D1 P S, S N2 D1 P M1 G2 R2 S
+Jonpuri,Janyam,20,S R2 M1 P D1 N2 S, S N2 D1 P M1 G2 R2 S
+Kātyāyani,Janyam,20,S R2 G2 P D2 S, S D2 P G2 R2 S
+Kanakavasantham,Janyam,20,S G2 M1 P N2 D1 S, S N2 D1 P M1 G2 R2 S
+Kshanika,Janyam,20,S G2 M1 P D1 S, S D1 P M1 G2 S
+Mānji,Janyam,20,S R2 G2 M1 P D2 N2 S, S N2 D1 P M1 P M1 P G2 R2 S
+Mahati,Janyam,20,S P P D1 N2 S, S N2 P G2 R2 S
+Malkosh,Janyam,20,S G2 M1 D1 N2 S, S N2 D1 M1 G2 S
+Nāgagāndhāri,Janyam,20,S R2 M1 G2 M1 P D1 N2 S, S N2 D1 P M1 G2 R2 S
+Navarathna Vilāsam,Janyam,20,S R2 G2 M1 P D1 P S, S D1 P M1 G2 M1 R2 S
+Nīlamati,Janyam,20,S G2 M1 P D1 N2 S, S N2 D1 M1 G2 S
+Nīlaveni,Janyam,20,S R2 G2 M1 P D1 N2 D1 S, S D1 P M1 G2 R2 S
+Poornashađjam,Janyam,20,S R2 G2 M1 N2 S, S N2 P M1 G2 R2 S
+Rājarājeshwari,Janyam,20,S R2 M1 P D1 S, S N2 D1 P M1 G2 R2 S
+Sāramati,Janyam,20,S R2 G2 M1 P D1 N2 S, S N2 D1 M G2 S
+Sāranga Kāpi,Janyam,20,S R1 P M1 R1 P R1 M1 P N2 S, S N2 D1 P M1 G2 R1 S
+Sharadapriya,Janyam,20,S R2 G2 P N2 S, S N2 P G2 R2 S
+Shree Navarasachandrika,Janyam,20,S R2 G2 M1 P D1 S, S D1 P M1 G2 R2 S
+Sindhu Dhanyāsi,Janyam,20,S G2 M1 P N2 S, S N2 D1 M1 P M1 G2 R2 S
+Shuddha Desi,Janyam,20,S R2 G2 R2 M1 P D1 N2 S, S N2 D1 P M1 G2 R2 S
+Shuddha Sālavi,Janyam,20,S G2 M1 P N2 S, S N2 P M1 R2 S
+Sukumāri,Janyam,20,S G2 M1 P N2 D1 N2 S, S N2 P M1 G2 M1 R2 S
+Sushama,Janyam,20,S R2 M1 P D1 S, S D1 P M1 R2 S
+Sutradhāri,Janyam,20,S R2 M1 P D1 S, S D1 P M1 R2 S
+Tarkshika,Janyam,20,S R2 M1 P N2 S, S N2 D1 P M1 R2 G2 R2 S
+Udayarāga,Janyam,20,S G2 M1 P N2 S, S N2 P M1 G2 S
+Vasantavarāli,Janyam,20,S R2 M1 P D1 S, S N2 D1 P G2 R2 S
+Keeravāni,Melakarta,21,S R2 G2 M1 P D1 N3 S, S N3 D1 P M1 G2 R2 S
+Keeranāvali,Janyam,21,S R2 G2 M1 P D1 N3 S, S P M1 G2 R2 S
+Aymmukhan,Janyam,21,S G2 M1 P D1 N3 S, S N3 D1 P M1 G2 S
+Bhānupriya,Janyam,21,S R2 G2 D1 N3 S, S N3 D1 G2 R2 S
+Chandrika,Janyam,21,S R2 G2 P D1 N3 S, S N3 D1 P G2 R2 S
+Gaganabhoopālam,Janyam,21,S M1 G2 M1 P D1 N3, S N3 D1 M1 G2 R2 S
+Hamsapancama,Janyam,21,S G2 M1 P N3 D1 N3 P S, S N3 D1 M1 G2 R2 S
+Hamsavāhini,Janyam,21,S R2 M1 P D1 N3 S, S N3 D1 P M1 R2 S
+Jayashree,Janyam,21,S R2 G2 M1 P D1 N3 D1 S, S N3 D1 P M1 G2 R2 S
+"Kadaram (Chandra, Chandrakowns)",Janyam,21,S G2 M1 D1 N3 S, S N3 D1 M1 G2 S
+Kalyāna Vasantam,Janyam,21,S G2 M1 D1 N3 S, S N3 D1 P M1 G2 R2 S
+Kusumāvali,Janyam,21,S G2 M1 P D1 S, S N3 D1 P M1 G2 M1 R1 S
+Mādhavi,Janyam,21,S M1 G2 M1 P D1 N3 S, S N3 D1 P M1 S M1 G2 R1 S
+Mishramanolayam,Janyam,21,S R2 M1 P D1 S, S D2 D1 P M1 R2 S
+Priyadarshani,Janyam,21,S R2 M1 D1 N3 S, S N3 D1 M1 R2 S
+Rishipriya,Janyam,21,S R2 G2 M1 P D1 N3 S, S N3 P M1 G2 R2 S
+Sāmapriya,Janyam,21,S R2 M1 P D1 S, S D1 P M1 R2 S
+Shrothasvini,Janyam,21,S G2 M1 P N3 S, S N3 P M1 G2 S
+Vasanthamanohari,Janyam,21,S R2 G2 M1 D1 N3 S, S N3 D1 M1 G2 R2 S
+Kharaharapriya,Melakarta,22,S R2 G2 M1 P D2 N2 S, S N2 D2 P M1 G2 R2 S
+Shree,Janyam,22,S R2 M1 P N2 S, S N2 P D2 N2 P M1 R2 G2 R2 S
+Abheri,Janyam,22,S G2 M1 P N2 S, S N2 D2 P M1 G2 R2 S
+Abhogi,Janyam,22,S R2 G2 M1 D2 S, S D2 M1 G2 R2 S
+Ādi Kāpi,Janyam,22,S R2 M1 G2 M1 P D2 N2 S, S N2 D2 P M1 G2 R2 S
+Āryamati,Janyam,22,S R2 G2 P D2 S, S N2 D2 P D2 M1 G2 R2 S
+Agnikopa,Janyam,22,S G2 M1 P N2 S, S N2 P M1 G2 R2 S
+Asāveri,Janyam,22,S R2 G2 M1 D2 N2 S, S N2 D2 M1 P D2 M1 G2 R2 S
+Bālachandrika,Janyam,22,S G2 M1 P D2 N2 S, S N2 D2 M1 G2 R2 S
+Basant Bahār,Janyam,22,S M2 P G3 M2 N3 D1 N3 S, R2 S N2 D2 P M1 G2 M1 G2 R2 S
+Bhāgeshri,Janyam,22,S G2 M1 D2 N2 S, S N2 D2 M1 P D2 G2 M1 R2 S
+Bhagavatapriya,Janyam,22,S R2 G2 M1 P N2 S, S N2 D2 P M1 G2 R2 S
+Bhagavathpriya,Janyam,22,S R2 G2 M1 R2 M P D2 N S, S N2 D2 P M1 R2 S
+Bhimpalās,Janyam,22,N2 S G2 M1 P N2 S, S N2 D2 P M1 G2 R2 S
+Brindāvana Sāranga,Janyam,22,S R2 M1 P N3 S, S N2 P M1 R2 G2 R2 S
+Brindāvani,Janyam,22,S R2 M1 P N3 S, S N2 P M1 R2 S
+Chakrapradipta,Janyam,22,S R2 G2 M1 P M1 D2 N2 S, S N2 D2 M1 G2 S
+Chitta Ranjani,Janyam,22,S R2 G2 M1 P D2 N2, N2 D2 P M1 G2 R2 S
+Darbār,Janyam,22,S R2 M1 P D2 N2 S, R2 S N2 S D2 P M1 R2 G2 G2 R2 S
+Dayavati,Janyam,22,S R2 G2 P N2 S, S N2 P M1 G2 S
+Devāmruthavarshani,Janyam,22,S R2 G2 M1 N2 D2 N2 S, S N2 D2 P M1 G2 R2 S
+Deva Manohari,Janyam,22,S R2 M1 P D2 N2 S, S N2 D2 N2 P M1 R2 S
+Dhanakāpi,Janyam,22,S R2 M1 P N2 S , S N2 D2 N2 P M1 G2 R2 S
+Dilipika,Janyam,22,S R2 G2 M1 P N2 D2 N2 P D2 N2 S, S N2 D2 P M1 G2 R2 S
+Durga,Janyam,22,S R2 M1 D2 P D2 S, S D2 P M1 R2 S
+Gowla Kannada,Janyam,22,S R2 G2 M1 P D2 N2 S, S N2 P M1 G2 S
+Hamsa ābheri,Janyam,22,S G2 P M1 P N2 S, S N2 D2 P M1 G2 S
+Haridasapriya,Janyam,22,S P M1 G3 M1 P N2 S, S N2 D2 N2 P M1 G2 R2 S
+Harinārāyani,Janyam,22,S R2 G2 M1 P M1 D2 N2 S, S N2 P M1 G2 R2 S
+Hindustāni Kāpi,Janyam,22,S R2 M1 P N2 S, S N2 D2 N2 P M1 G2 M1 D2 P G2 R2 S N2 S
+Huseni,Janyam,22,S R2 G2 M1 P N2 D2 N2 S, S N2 D1 P M1 G2 R2 S
+Huseni,Janyam,22,S R2 G3 M1 P N3 D2 M1 P N3 S, S N3 S P D2 M1 P G3 R2 S
+Jayamanohari,Janyam,22,S R2 G2 M1 D2 S, S N2 D2 M1 G2 R2 S
+Jayanārāyani,Janyam,22,S R2 G2 M1 P D2 S, S N2 D2 P M1 G2 R2 S
+Jayanthasena,Janyam,22,S G2 M1 P D2 S, S N2 D2 P M1 G2 S
+Kanadā,Janyam,22,S R2 G2 M1 D N2 S, S N2 P M1 G2 M1 R2 S
+Kāpi,Janyam,22,S R2 M1 P N3 S, S N2 D2 N2 P M1 G2 R2 S
+Kāpijingala,Janyam,22,S N2 S R2 G2 M1, M1 G2 R2 S N2 D2 N2 S
+Kalānidhi,Janyam,22,S R2 G2 M1 S P M1 D2 N2 S, S N2 D2 P M1 G2 R2 S
+Kalika,Janyam,22,S R2 G2 P D2 N2 S, S N2 D2 P G2 R2 S
+Kannadagowla,Janyam,22,S R2 G2 M1 P N2 S, S N2 D2 P M1 G2 S
+Karnātaka Hindolam,Janyam,22,S G2 M1 D2 N2 S, S N2 D2 M1 G2 S
+Karnātaka Kāpi,Janyam,22,S R2 G2 M1 P D2 N2 S, S N2 D2 P M1 G2 R2 S
+Karnaranjani,Janyam,22,S R2 G2 M1 G2 P D2 S, S N2 D2 P M1 G2 R2 S
+Kowmodaki,Janyam,22,S R2 G2 M1 P D2 N2 S, S D2 P G2 S
+Kowshika,Janyam,22,S G2 M1 D2 N2 S, S N2 D2 M1 G2 M1 R2 S
+Lalitamanohari,Janyam,22,S G2 M1 P D2 N2 S, S N2 P M1 G2 R2 S
+Mādhavamanohari,Janyam,22,S R2 G3 M1 P N2 D2 N2 S, S N2 D2 M1 G2 R2 S
+Mālavashree,Janyam,22,S G2 M1 P N2 D2 N2 P D2 N2 S, S N2 D2 P M1 G2 R2 S
+Mārgahindolam,Janyam,22,S R2 G2 M1 P D2 N2 S, S N2 D2 P M1 G2 S
+Māyapradeeptam,Janyam,22,S M1 G2 M1 P D2 N2 S, S D2 P M1 G2 R2 S
+Madhyamarāvali,Janyam,22,S R2 G2 P D2 N2 S, S N2 D2 P G2 R2 S
+Madhyamāvathi,Janyam,22,S R2 M1 P N2 S, S N2 P M1 R2 S
+Mahānandhi,Janyam,22,S R2 G2 P D2 S, S D2 P G2 R2 S
+Mandāmari,Janyam,22,S R2 M1 P D2 S, S N2 S D2 P M1 G2 R2 S
+Mangalāvathi,Janyam,22,S R2 M1 P D2 S, S D2 P M1 G2 R2 S
+Manirangu,Janyam,22,S R2 M1 P N2 S, S N2 P M1 G2 R2 S
+Manjari,Janyam,22,S G2 R2 G2 M1 P N2 D2 N2 S, S N2 D2 P M1 G2 R2 S
+Manohari,Janyam,22,S G2 R2 G2 M1 P D2 S, S D2 P M1 G2 R2 S
+Manorama,Janyam,22,S R2 G2 M1 P D1 P S, S N2 D1 P M1 G2 R2 S
+Maruvadhanyāsi,Janyam,22,S G2 M1 P D2 S, S N2 D2 P M1 D2 M1 G2 R2 S
+Mishramanolayam,Janyam,22,S R2 M1 P D1 S, S D2 D1 P M1 R2 S
+Mishrashivaranjani,Janyam,22,S R2 G2 P D2 S, S D2 P G3 G2 R2 S
+Miyan Malhār,Janyam,22,S R2 P M1 P N2 D2 N2 S, S N2 P M1 P G2 M1 R2 S
+Moorthee,Janyam,22,S G2 M1 D2 N2 S, S N2 D2 M1 G2 S
+Mukhāri,Janyam,22,S R2 M1 P N2 D2 S, S N2 D1 P M1 G2 R2 S
+Nādachintāmani,Janyam,22,S R2 G2 M1 N2 D2 N2 S, S N2 D2 P M1 G2 R2 S
+Nādatārangini,Janyam,22,S P M1 R2 G2 S, S P N2 D2 P M1 G2 R2 G2 S
+Nādavarangini,Janyam,22,S P M1 N2 D2 N2 S, S P N2 D2 P M1 G2 R2 G2 S
+Nāgari,Janyam,22,S R2 M1 P D2 N2 S, S N2 D2 P M1 G2 S
+Nāgavalli,Janyam,22,S R2 M1 D2 N2 S, S N2 D2 M1 R2 S
+Nāyaki,Janyam,22,S R2 M1 P D2 N2 D2 P S, S N2 D2 P M1 R2 G2 R2 S
+Nigamagāmini,Janyam,22,M1 G2 S G2 M1 N2 S, S N2 M1 G2 M1 G2 S
+Nirmalāngi,Janyam,22,S R2 M1 P N2 S, S N2 P M1 R2 S
+Omkāri,Janyam,22,S R2 G2 M1 P D2 S, S D2 P M1 G2 R2 S
+Panchamam,Janyam,22,S R2 D2 P N2 S, S N2 D2 P M1 G2 R2 S
+Patadeep,Janyam,22,N2 S G2 M1 P N2 S, S N2 D2 P M1 G2 R2 S N2 S G2 R2 S
+Phalamanjari,Janyam,22,S G2 M1 D2 S, S N2 D2 P M1 G2 M1 R2 S
+Phalaranjani,Janyam,22,S G2 M1 P M1 D2 S, S N2 D2 P M1 G2 M1 R2 S
+Peeloo,Janyam,22,N2 S G3 M1 P N2 D2 P S, S N2 D2 P D2 P M1 G2 R2 S N2 S
+Poornakalānidhi,Janyam,22,S G2 M1 P D2 N2 S, S D2 P M1 G2 R2 S
+Pushpalathika,Janyam,22,S R2 G2 M1 P N2 S, S N2 P M1 G2 R2 S
+Ratipatipriya,Janyam,22,S R2 G2 P N2 S, S N2 P G2 R2 S
+Reethi Gowla,Janyam,22,S G2 R2 G2 M1 N2 D2 M1 N2 N2 S, S N2 D2 M1 G2 M1 P M1 G2 R2 S
+Rudrapriyā,Janyam,22,S R2 G2 M1 N2 S, S N2 P M1 G2 R2 S
+Sālagabhairavi,Janyam,22,S R2 M1 P D2 S, S N2 D2 P M1 G2 R2 S
+Sārang,Janyam,22,S R2 M1 P N2 S, S N2 P M1 R2 S
+Saindhavi,Janyam,22,N2 D2 N2 S R2 G2 M1 P D2 N2, D2 P M1 G2 R2 S N2 D2 N2 S
+Sangrama,Janyam,22,S R2 M1 D2 N2 P S, S N2 D2 G2 R2 S
+Sankrāndanapriyā,Janyam,22,S R2 G2 P D2 S, S D2 P G2 R2 S
+Sarvachoodāmani,Janyam,22,S R2 M1 G2 M1 P D2 N2 S, S N2 P D2 N2 D2 P M1 G2 R2 G2 R2 S
+Shivapriyā,Janyam,22,S R2 G2 P D2 S, S D2 P G2 R2 S
+Shivaranjani,Janyam,22,S R2 G2 P D2 S, S D2 P G2 R2 S
+Shree Manohari,Janyam,22,S G2 R2 G2 M1 P D2 S, S D2 P M1 G2 R2 S
+Shree Manoranjani,Janyam,22,S G2 M1 D2 N2 S, S N2 D2 M1 G2 R2 S
+Shree ranjani,Janyam,22,S R2 G2 M1 D2 N2 S, S N2 D2 M1 G2 R2 S
+Siddhasena,Janyam,22,S G2 R2 G2 M1 P D2 S, S N2 D2 M1 P M1 R2 G2 R2 S
+Suddha Bangāla,Janyam,22,S R2 M1 P D2 S, S D2 P M1 R2 G2 R2 S
+Suddha Bhairavi,Janyam,22,S G2 M1 P N2 D2 S, S N2 D2 M1 G2 R2 S
+Suddha Dhanyāsi,Janyam,22,S G2 M1 P N2 S, S N2 P M1 G2 S
+Suddha Hindolam,Janyam,22,S G2 M1 D2 N2 S, S N2 D2 M1 G2 S
+Suddha Manohari,Janyam,22,S R2 G2 M1 P D2 S, S N2 P M1 R2 G2 S
+Suddha Velāvali,Janyam,22,S R2 M1 P N2 S, S N2 D2 N2 P M1 G2 R2 S
+Sugunabhooshani,Janyam,22,S G2 M1 P M1 D2 N2 S, S N2 D2 P M1 D2 M1 R2 S
+Swarabhooshani,Janyam,22,S G2 M1 P D2 N2 S, S N2 D2 P M1 R2 S
+Swarakalānidhi,Janyam,22,S M1 G2 M1 P D2 N2 S, S N2 D2 N2 P M1 G2 R2 S
+Swararanjani,Janyam,22,S R2 G2 M1 D2 N2 S, S N2 P M1 G2 M1 R2 S
+Tavamukhāri,Janyam,22,S R2 G2 P D2 S, S N2 D2 P M1 G2 R2 S
+Vajrakānti,Janyam,22,S G2 M1 P N2 S, S N2 D1 P M1 G2 R2 S
+Gowri Manohari,Melakarta,23,S R2 G2 M1 P D2 N3 S, S N3 D2 P M1 G2 R2 S
+Gowrivelāvali,Janyam,23,S R2 G2 S R2 M1 P D2 S, S N3 D2 P M1 G2 R2 S
+Gowrivelāvali,Janyam,23,S R2 G1 G2 S R2 M1 M1 P D2 D2 S, S N3 D2 P M1 G1 G2 R2 S
+Gowrishankar,Janyam,23,S R2 G2 M1 P N3 S, S N3 D2 P M1 G2 R2 S
+Hamsadeepika,Janyam,23,S R2 G2 M1 D2 S, S N3 D2 P M1 G2 R2 S
+Hrudkamali,Janyam,23,S R2 M1 D2 N3 S, S N3 D2 M1 R2 S
+Lavanthika,Janyam,23,S R2 M1 P N3 S, S N3 P M1 R2 S
+Sundaramanohari,Janyam,23,S R2 M1 P N3 S, S N3 D2 P M1 G2 R2 S
+Vasantashree (Amba Manohari),Janyam,23,S R2 G2 M1 D2 N3 S, S N3 D2 M1 G2 R2 S
+Velāvali,Janyam,23,S G2 M1 D2 N3 S, S N3 D2 P M1 G2 R2 S
+Velāvali,Janyam,23,S R2 M1 P D2 S, S N3 D2 P M1 G2 R2 S
+Velāvali,Janyam,23,S R2 G2 M1 P D2 S, S N3 D2 P M1 G2 S
+Velāvali,Janyam,23,S G2 R2 M1 P D2 S, S N3 D2 P M1 G2 R2 S
+Velāvali,Janyam,23,S R2 G2 S R2 M1 P D2 S, S N3 D2 P M1 G2 R2 S
+Velāvali,Janyam,23,S R2 M1 P D2 N3 S, S N3 D2 P M1 G2 R2 S
+Varunapriyaa,Melakarta,24,S R2 G2 M1 P D3 N3 S, S N3 D3 P M1 G2 R2 S
+Veeravasantham,Janyam,24,S R2 G2 M1 P S, S N3 D3 P M1 G2 R2 S
+Māraranjani,Melakarta,25,S R2 G3 M1 P D1 N1 S, S N1 D1 P M1 G3 R2 S
+Sharāvathi,Janyam,25,S R2 G3 M1 P D1 N1 D1 S, S N1 D1 P M1 G3 R2 S
+Devasalaga,Janyam,25,S G3 P D1 N1 S, S N1 D1 P M1 G3 R2 S
+Jana Sammodhini,Janyam,25,S R2 G3 P D1 S, S D1 P G3 R2 S
+Kesari,Janyam,25,S R2 G3 M1 P M1 D1 P D1 S, S D1 N1 D1 P M1 G2 R2 S
+Rājathilaka,Janyam,25,S R2 G3 M1 P S, S P M1 G3 R2 S
+Chārukeshi,Melakarta,26,S R2 G3 M1 P D1 N2 S, S N2 D1 P M1 G3 R2 S
+Tarangini,Janyam,26,S R2 G3 P D1 N2 D1 S, S D1 P M1 G3 R2 S
+Tarangini,Janyam,26,S R2 G3 P D1 N2 D1 P D1 S, S D1 P G3 R2 S G3 M1 R2 G3 S
+Chirswaroopi,Janyam,26,S R2 G3 M1 P D1 N2 S, S N2 D1 P M1 G3 R2 S
+Māravi,Janyam,26,S G3 M1 P N2 S, S N2 D1 P M1 G3 R2 S
+Poorvadhanyāsi,Janyam,26,S M1 G3 M1 N2 S, S N2 D1 P M1 G3 R2 S
+Shiva Manohari,Janyam,26,S M1 G3 M1 P D1 N2 S, S N2 D1 P M1 G3 R2 S
+Shukrajyothi,Janyam,26,S R2 G3 M1 P D1 N2 S, S N2 P D1 M1 G3 R2 S
+Sarasāngi,Melakarta,27,S R2 G3 M1 P D1 N3 S, S N3 D1 P M1 G3 R2 S
+Sowrasenā,Janyam,27,S R2 M1 P D1 S, S N3 D1 P M1 G3 R2 S
+Haripriya,Janyam,27,S R1 G3 M1 P S, S N3 D1 P M1 G3 S
+Kamalā Manohari,Janyam,27,S G3 M1 P N3 S, S N3 D1 P M1 G3 S
+Madhulika,Janyam,27,S R2 G3 M1 N3 S, S N3 M1 G3 R2 S
+Nalinakānthi,Janyam,27,S G3 R2 M1 P N3 S, S N3 P M1 G3 R2 S
+Neelamani,Janyam,27,S R2 M1 P D1 N3 S, S N3 D1 P M1 R2 S
+Salavi,Janyam,27,S G3 R2 G3 M1 P D1 N3 D1 S, S N3 D1 P M1 G3 R2 S
+Sarasānana,Janyam,27,S R2 G3 M1 D1 N3 S, S N3 D1 M1 G3 R2 S
+Saraseeruha,Janyam,27,S R2 G3 M1 D1 N1 D1 S, S N1 D1 M1 G3 R2
+Simhavāhini,Janyam,27,S G2 M1 P D1 N3 S, S N3 D1 P M1 G3 R2 S
+Surasena,Janyam,27,S R2 M1 P D1 S, S N3 D1 P M1 G3 S R2 S
+Sutradhāri,Janyam,27,S R2 M1 P D1 S, S D1 P M1 R2 S
+Vasanthi,Janyam,27,S R2 G3 P D1 S, S D1 P G3 R2 S
+Harikāmbhoji,Melakarta,28,S R2 G3 M1 P D2 N2 S, S N2 D2 P M1 G3 R2 S
+Harikedāragowla,Janyam,28,S R2 G3 M1 P D2 N2 S, S N2 D2 P M1 G3 R2 S
+Andolikā,Janyam,28,S R2 M1 P N2 S, S N2 D2 M1 R2 S
+Ambhojini,Janyam,28,S R2 G3 M1 D2 S, S D2 M1 G3 R2 S
+Andhali,Janyam,28,S R2 M1 P N2 S, S N2 P M1 R2 G3 M1 R2 S
+Aparoopam,Janyam,28,S R2 G3 M1 P N2 D2 N2 S, S D2 M1 G3 R2 G3 S
+Bālahamsa,Janyam,28,S R2 M1 P D2 S, S N2 D2 P M1 R2 M1 G3 S
+Bahudāri,Janyam,28,S G3 M1 P D2 N2 S, S N2 P M1 G3 S
+Bhoopāli,Janyam,28,S R2 G3 P D2 S, S D2 P G3 R2 S
+Chāyalagakhamās,Janyam,28,S M1 G3 M1 P D2 N2 S, S N2 D2 P M1 G3 R2 S
+Chāyatārangini,Janyam,28,S R2 M1 G3 M1 P N2 S, S N2 D2 P M1 G3 R2 S
+Chandrahasitham,Janyam,28,S R2 G3 M1 D2 N2 S, S N2 D2 M1 G3 R2 S
+Dasharatipriya,Janyam,28,S M1 G3 M1 P D2 N2 D2 S, S N2 D2 P M1 G3 M1 R2 S
+Dayaranjani,Janyam,28,S R2 M1 P D2 S, S N2 D2 M1 G3 S
+Desh,Janyam,28,S R2 M1 P N3 S, S N2 D2 P M1 G3 R2 S
+Deshākshi,Janyam,28,S R2 G3 P D2 S, S N2 D2 P M1 G3 R2 S
+Deshkār,Janyam,28,S R2 G3 P D2 S, S D2 P G3 R2 S
+Dwaithachintāmani,Janyam,28,S G3 M1 D2 N2 S, S N2 D2 M1 P G3 R2 S
+Dwaithachintāmani,Janyam,28,S G3 M1 D2 N2 S, S N2 D2 M1 G3 R2 S
+Dwijāvanthi,Janyam,28,S R2 M1 G3 M1 P D2 S, S N2 D2 P M1 G3 M1 R2 G2 R2 S N2 D2 N2 S
+Eeshamanohari,Janyam,28,S R2 G3 M1 P D2 N2 S, S N2 D2 P M1 R2 M1 G3 R2 S
+Eeshaivaridhi,Janyam,28,S R2 M1 D2 N2 S, S N2 P M1 R2 S
+Gāndhāralola,Janyam,28,S R2 M1 P D2 S, S N2 D2 P M1 G3 M1 G3 R2 S
+Gavathi,Janyam,28,S M1 P N3 S, S D2 M1 P G3 M1 R2 N3 S
+Guhamanohari,Janyam,28,S R2 M1 D2 N2 S, S N2 D2 M1 R2 S
+Guharanjani,Janyam,28,S R2 S M1 P D2 N2 S, S N2 D2 N2 P M1 G3 S
+Hamsaroopini,Janyam,28,S R2 G3 P D2 S, S N2 P M1 R2 S
+Haridasapriya,Janyam,28,S P M1 G3 M1 P N2 S, S N2 D2 N2 P M1 G2 R2 S
+Harikedāram,Janyam,28,S R2 G3 M1 P D2 N2 S N2 S, S N2 S D2 N2 D2 P M1 G3 R2 S
+Harini,Janyam,28,S G3 M1 P D2 N2 D2 S, S N2 S N2 D2 P M1 G3 M1 G2 R2 S
+Harithapriya,Janyam,28,S R2 M1 P D2 S, S N2 D2 P M1 G3 R2 G3 R2 S
+Hemasāranga,Janyam,28,S R2 G3 M1 P D2 N2 D2 S, S P M1 G3 R2 S
+Jaijaivanthi,Janyam,28,S R2 G3 R2 S D2 N2 P R2 G3 M1 P N2 S, N2 S N2 D2 P D2 M1 G3 R2 G3 R2 S
+Jaithshree,Janyam,28,S R2 G3 P D2 S, S D2 P G3 R2 S
+Jana Sammodhini,Janyam,28,S R2 G3 P D2 N2 S, S N2 D2 P G3 R2 S
+Jayarāma,Janyam,28,S R2 G3 M1 P D2 N2 S, S N2 D2 P M1 G3 S
+Jhinjothi,Janyam,28,D2 S R2 G3 M1 P D2 N2, D2 P M1 G3 R2 S N2 D2 P D2 S
+Jog (Hindustani),Janyam,28,S G3 M1 P N3 S, S N2 P M1 G3 M1 G3 S G3 S
+Jujahuli,Janyam,28,S M1 G3 M1 P D2 N2 S, S N2 D2 P M1 G3 S
+Kāmbhoji,Janyam,28,S R2 G3 M1 P D2 S, S N2 D2 P M1 G3 R2 S N3. P. D2. S
+Kāmbhoji,Janyam,28,S R2 G3 M1 P D2 S, S N2 D2 P M1 G3 R2 S N3 P D2 S
+Kāpi Nārāyani,Janyam,28,S R2 M1 P D2 N2 S, S N2 D2 P M1 G3 R2 S
+Kamās,Janyam,28,S M1 G3 M1 P D2 N2 S, S N2 D2 P M1 G3 R2 S
+Karnātaka Behāg,Janyam,28,S R2 G3 M1 P D2 N2 S, S N2 D2 N2 P D2 M1 G3 R2 S
+Karnātaka Devagāndhāri,Janyam,28,S G3 M1 P N2 S, S N2 D2 P M1 G3 R2 S
+Karnātaka Khamās,Janyam,28,S G3 M1 P D2 N2 S, S N2 D2 P M1 G3 S
+Kedāra Gowla,Janyam,28,S R2 M1 P N2 S, S N2 D2 P M1 G3 R2 S
+Keshavapriyā,Janyam,28,S R2 S M1 P D2 N2 S, S N2 S P M1 G3 R2 S
+Kokiladhwani,Janyam,28,S R2 G3 M1 D2 N2 D2 S, S N2 D2 P M1 G3 R2 S
+Kokilavarāli,Janyam,28,S R2 M1 P D2 S, S N2 D2 M1 P M1 G3 R2 G3 S
+Kunthala Varāli,Janyam,28,S M1 P D2 N2 D2 S, S N2 D2 P M1 S
+Mālavi,Janyam,28,S R2 G3 M1 P M1 D2 N2 S, S N2 D2 P M1 G3 M1 R2 S
+Madhurakokila,Janyam,28,S R2 G3 D2 N2 S, S N2 D2 G3 R2 S
+Mahathi,Janyam,28,S G3 P N2 S, S N2 P G3 S
+Mahuri,Janyam,28,S R2 M1 G3 R2 G3 P D2 S, S N2 D2 P M1 G3 R2 S R2 G3 R2 S
+Manoharam,Janyam,28,S R2 G3 M1 D2 N2 S, S N2 P M1 R2 S
+Mattakokila,Janyam,28,S R2 P D2 N2 D2 S, S D2 N2 D2 P R2 S
+Meghana,Janyam,28,S M1 G3 M1 P D2 S, S N2 D2 M1 G3 S
+Mohanam,Janyam,28,S R2 G3 P D2 S, S D2 P G3 R2 S
+Nādavalli,Janyam,28,S R2 M1 D2 N2 S, S N2 D2 M1 R2 S
+Nāgaswarāvali,Janyam,28,S G3 M1 P D2 S, S D2 P M1 G3 S
+Nārāyana Gowla,Janyam,28,S R2 M1 P N2 D2 N2 S, S N2 D2 P M1 G3 R2 G3 S
+Nārāyani,Janyam,28,S R2 M1 P D2 S, S N2 D2 P M1 R2 S
+Nāttai Kurinji,Janyam,28,S R2 G3 M1 N2 D2 N2 P D2 N2 S, S N2 D2 M1 G3 M1 P G3 R2 S
+Nāttai Kurinji,Janyam,28,S R2 G3 M1 D2 N2 S, S N2 D2 M1 G3 S
+Nāttai Kurinji,Janyam,28,S R2 G3 M1 N2 D2 N2 P D2 N2 S, S N2 D2 M1 G3 M1 P M1 G3 R2 S
+Nāttai Nārāyani,Janyam,28,S R2 G3 M1 D2 N2 D2 S, S N2 D2 P M1 G3 M1 R2 S
+Nandhkowns,Janyam,28,S G3 M1 P M1 D2 N2 S, S N2 D2 P M1 G3 S G3 S
+Narani,Janyam,28,S R2 M1 P D2 S, S N2 D2 P M1 R2 S
+Navarasa Kalānidhi,Janyam,28,S R2 M1 P S N2 S, S N2 D2 P M1 G3 R2 S
+Navarasa Kannada,Janyam,28,S G3 M1 P S, S N2 D2 M1 G3 R2 S
+Neela,Janyam,28,S G3 M1 D2 N2 S, S N2 D2 M1 G3 S
+Pārsi,Janyam,28,S R2 G3 M1 D2 N2 S, S N2 D2 P M1 G3 R2 S
+Parameshwarapriyā,Janyam,28,S R2 G3 M1 P N2 S, S N2 P M1 R2 S
+Pashupathipriyā,Janyam,28,S R2 M1 P M1 D2 S, S D2 M1 P R2 M1 S
+Poornakāmbhoji,Janyam,28,S R2 G3 M1 P N2 S, S D2 P M1 G3 R2 S
+Pratāpa Nāttai,Janyam,28,S R2 G3 M1 D2 P D2 N3 S, S N3 D2 P M1 G3 S
+Pratāpavarāli,Janyam,28,S R2 M1 P D2 P S, S D2 P M1 G3 R2 S
+Pravalajyoti,Janyam,28,S R2 M1 P D2 N2 S, S N2 D2 P M1 G3 S
+Rāgapanjaramu,Janyam,28,S R2 M1 P D2 N2 D2 S, S N2 D2 M1 R2 S
+Rāgavinodini,Janyam,28,S R2 G3 M1 D2 S, S D2 M1 G3 R2 S
+Rāgeshree,Janyam,28,S G3 M1 D2 N3 S, S N2 D2 M1 G3 R2 S
+Rāgeshree,Janyam,28,S G3 M1 D2 N3 S, S N3 D2 M1 G3 R2 S
+Rāgeshree,Janyam,28,S G3 M1 D2 N3 S, S N3 D2 N3 D2 M1 G3 R2 S
+Ravi Chandrikā,Janyam,28,S R2 G3 M1 D2 N2 D2 S, S N2 D2 M1 G3 R2 S
+Sāvithri,Janyam,28,S G3 M1 P N2 S, S N2 P M1 G3 S
+Sahāna,Janyam,28,S R2 G3 M1 P M1 D2 N2 S, S N2 S D2 N2 D2 P M1 G3 M1 R2 G3 R2 S
+Saraswathi Manohari,Janyam,28,S R2 G3 M1 D2 S, S D2 N2 P M1 G3 R2 S
+Sathvamanjari,Janyam,28,S R2 M1 P D2 S, S N2 D2 P M1 N2 D2 M1 R2 S
+Shakunthala,Janyam,28,S R2 G3 M1 D2 N2 S, S N2 D2 M1 G3 S
+Shankaraharigowla,Janyam,28,S R2 G3 M1 P D2 N3 S, S N2 D2 P M1 G3 R2 S
+Shenchukāmbhoji,Janyam,28,S P M1 D2 N2 S, S N2 D2 P M1 G3 R2 S
+Chenjurutti,Janyam,28,D2 S R2 G3 M1 P D2 N2, N2 D2 P M1 G3 R2 S N2 D2 P D2 S
+Shiva Kāmbhoji,Janyam,28,S R2 G3 M1 N2 S, S N2 P M1 G3 R2 S
+Surutti,Janyam,28,S R2 M1 P N2 S, S N2 D2 P M1 G3 P M1 R2 S
+Shyāmā,Janyam,28,S R2 M1 P D2 S, S D2 P M1 G3 R2 S
+Shyāmā,Janyam,28,S R2 G3 S R2 P M1 D2 D2 S, S D2 P M1 G3 R2 S
+Simhavikrama,Janyam,28,S R2 G3 R2 M1 P D2 P N2 S, S N2 D2 P M1 G3 R2 S
+Sindhu Kannada,Janyam,28,S M1 G3 M1 R2 G3 M1 P D2 P S, S N2 D2 P M1 G3 R2 S
+Sindhu Surutti,Janyam,28,S R2 M1 P N2 S S N2 S, S N2 D2 P M1 R2 M1 G3 R2 S
+Suddha Khamās,Janyam,28,S M1 G3 M1 P D2 N2 S, S N2 D2 P M1 G3 R2 S
+Suddha Varāli,Janyam,28,S R2 G3 M1 D2 N2 S, S N2 D2 N2 P M1 G3 S
+Suddha,Janyam,28,S R2 M1 P D2 S, S N2 D2 P M1 R2 S
+Suddhatarangini,Janyam,28,S R2 M1 P D2 S, S N2 D2 P M1 G3 R2 S
+Sumanapriyā,Janyam,28,S R2 G3 M1 P D2 P S, S D2 S P M1 G3 R2 S
+Suposhini,Janyam,28,S R2 S M1 P N2 D2 S, S D2 P M1 R2 M1 S
+Suvarnakriyā,Janyam,28,S R2 G3 P N2 D2 S, S N2 P G3 R2 S
+Swarāvali,Janyam,28,S M1 G3 M1 P N2 D2 N2 S, S N2 D2 P M1 G3 R2 S
+Swaravedi,Janyam,28,S M1 G3 M1 P N2 D2 N2 S, S N2 D2 P M1 G3 S
+Tilakavathi,Janyam,28,S R2 G3 M1 P D2 P S, S D2 P M1 R2 S
+Thilang,Janyam,28,S G3 M1 P N3 S, S N2 P M1 G3 S
+Umābharanam,Janyam,28,S R2 G3 M1 P D2 N2 S, S N2 P M1 R2 G3 M1 R2 S
+Vaishnavi,Janyam,28,S R2 G3 M1 P D2 S, S D2 P M1 G3 R2 S
+Veenavadini,Janyam,28,S R2 G3 P N2 S, S N2 P G2 R2 S
+Vivardhani,Janyam,28,S R2 M P S, S N2 D2 P M1 G3 R2 S
+Yadukula Kāmbhoji,Janyam,28,S R2 M1 P D2 S, S N2 D2 P M1 G3 R2 S
+Dheera Shankarābharanam,Melakarta,29,S R2 G3 M1 P D2 N3 S, S N3 D2 P M1 G3 R2 S
+Ānandharoopa,Janyam,29,S R2 G3 P D2 N3 S, S N3 D2 P G3 R2 S
+Ārabi,Janyam,29,S R2 M1 P D2 S, S N3 D2 P M1 G3 R2 S
+Ārabi,Janyam,29,S R2 M1 P D2 S, S D2 P M1 G3 R2 S
+Atāna,Janyam,29,S R2 M1 P N3 S, S N3 D2 P M1 P G3 R2 S
+Bangāla,Janyam,29,S R2 G3 M1 P M1 R2 P S, S N3 P M1 R2 G3 R2 S
+Begada,Janyam,29,S G3 R2 G3 M1 P D2 N2 D2 P S, S N3 D2 P M1 G3 R2 S
+Behāg,Janyam,29,S G3 M1 P N3 D2 N3 S, S N3 D2 P M1 G3 R2 S
+Behāg Deshikam,Janyam,29,S R2 G3 M1 M2 P D2 N3 S, S N3 D2 P M2 M1 G3 R2 S
+Bilahari,Janyam,29,S R2 G3 P D2 S, S N3 D2 P M1 G3 R2 S
+Buddhamanohari,Janyam,29,S R2 G3 M1 S P S, S P M1 G3 R2 S
+Buddharanjani,Janyam,29,S R2 G3 M1 P S, S N3 P M1 G3 M1 R2 S
+Chāyā,Janyam,29,S P M1 P D2 P N3 R2 S, S D2 P M1 P D2 P G3 M1 R2 S
+Chāyashankarābharanam,Janyam,29,S R1 M1 P D2 N3 S, S N3 D2 P M1 G3 R1 S
+Devagāndhāri,Janyam,29,S R2 M1 P D2 S, S N3 D2 P M1 G3 R2 S
+Dharmalakhi,Janyam,29,S M1 P D2 N3 S, S N3 D2 P M1 S
+Dhurvanki,Janyam,29,S R2 M1 P D2 S, S N3 D2 P M1 G3 R2 S
+Gajagowri,Janyam,29,S R2 M1 G3 M1 N3 P D2 S, S N3 D2 P M1 P M1 G3 R2 S
+Garudadhvani,Janyam,29,S R2 G3 M1 P D2 N3 S, S D2 P G3 R2 S
+Gowdamallār,Janyam,29,S R2 M1 P D2 S, S N3 M1 G3 R2 S
+Hamsadhwani,Janyam,29,S R2 G3 P N3 S, S N3 P G3 R2 S
+Hamsavinodhini,Janyam,29,S R2 G3 M1 D2 N3 S, S N3 D2 P M1 G3 R2 S
+Hemant,Janyam,29,N3 S D2 N3 S G3 G3 M1 D2 N3 S, S N3 D2 P M1 G3 R2 S
+Hindustāni Behāg,Janyam,29,S G3 M1 P N3 S, S N3 D2 P M1 G3 R2 S
+Janaranjani,Janyam,29,S R2 G3 M1 P D2 N3 S, S D2 P M1 R2 S
+Julavu,Janyam,29,P D2 N3 S R2 G3 M1 P, M1 G3 R2 S N3 D2 P M1
+Kamaripriyā,Janyam,29,S G3 M1 D2 N3 S, S N3 D2 M1 M1 G3 M1 R2 S
+Kannada,Janyam,29,S R2 G3 M1 P M1 D2 N3 S, S N3 S D2 P M1 G3 M1 G3 M1 R2 S
+Kathanakuthoohalam,Janyam,29,S R2 M1 D2 N3 G3 P S, S N3 D2 P M1 G3 R2 S
+Kedāram,Janyam,29,S M1 G3 M1 P N3 S, S N3 P M1 G3 R2 S
+Kokilabhāshani,Janyam,29,S R2 G3 M1 P D2 N3 S, S N3 P M1 G3 M1 R2 S
+Kolahalam,Janyam,29,S P M1 G3 M1 P D2 N3 S, S N3 D2 P M1 G3 R2 S
+Kurinji,Janyam,29,S N3 S R2 G3 M1 P D2, D2 P M1 G3 R2 S N3 S
+Kusumavichithra,Janyam,29,S G3 R2 G3 M1 P N3 P D2 N3 S, S D2 N3 D2 M1 G3 P M1 G3 R2 S
+Kutuhala,Janyam,29,S R2 M1 N3 D2 P N3 S, S N3 D2 P M1 G3 R2 S
+Lahari,Janyam,29,S R2 G3 P D2 S, S D2 P M1 G3 R2 S
+Mānd,Janyam,29,S G3 M1 P D2 S, S N3 D2 P M1 G3 R2 S
+Māyadravila,Janyam,29,S R2 G3 M1 P D2 N3 S, S N2 P M1 P G3 M1 R2 S
+Mohanadhwani,Janyam,29,S R2 G3 P D2 S, S N3 P D2 P G3 R2 S
+Nāgabhooshani,Janyam,29,S R2 M1 P D2 N3 S, S D2 P M1 R2 S
+Nāgadhwani,Janyam,29,S R2 S M1 G3 M1 P N3 D2 N3 S, S N3 D2 N3 P M1 G3 S
+Nārāyanadeshākshi,Janyam,29,S R2 M1 G3 R2 G3 M1 P D2 N3 S, S N3 D2 P M1 G3 R2 S
+Navaroj,Janyam,29,P D2 N3 S R2 G3 M1 P, M1 G1 R3 S N2 D2 P
+Neelāmbari,Janyam,29,S R2 G3 M1 P D2 P N3 S, S N3 P M1 G3 R2 G3 S
+Niroshta,Janyam,29,S R2 G3 D2 N3 S, S N3 D2 G3 R2 S
+Pahādi,Janyam,29,S R2 G3 P D2 P D2 S, N3 D2 P G3 M1 G3 R2 S N3 D2 P D2 S
+Poornachandrikā,Janyam,29,S R2 G3 M1 P D2 P S, S N3 P M1 R2 G3 M1 R2 S
+Poornagowla,Janyam,29,S R2 G3 M1 P N3 D2 N3 P D2 N3 S, S N3 D2 N3 P M1 G3 R2 S
+Poorvagowla,Janyam,29,S G3 R2 G3 S R2 M1 P D2 N3 S, S N3 D2 P M1 G3 R2 S
+Rathnabhooshani,Janyam,29,S R2 G3 M1 P S, S P M1 G3 R2 S
+Reetuvilāsa,Janyam,29,S G3 M1 P D2 N3 S, S N3 D2 P M1 G3 S
+Sāranga Mallār,Janyam,29,S R2 M1 P D2 N3 S, S N3 D2 P M1 R2 S N3 S
+Shankara,Janyam,29,S G3 P S, S N3 D2 P G3 P R2 G3 S
+Shankaraharigowla,Janyam,29,S R2 G3 M1 P D2 N3 S, S N2 D2 P M1 G3 R2 S
+Shankaramohana,Janyam,29,S R2 G3 P N3 D2 S N3, S D2 P G3 R2 S
+Shankari,Janyam,29,S G3 P N3 S, S N3 P G3 S
+Sindhu,Janyam,29,S M1 P D2 S, S N3 D2 M1 P M1 G3 R2 S
+Sindhu Mandāri,Janyam,29,S R2 G3 M1 P S, S N3 D2 P G3 M1 P M1 R2 S
+Suddha Mālavi,Janyam,29,S R2 G3 M1 P N3 S, S D2 N3 P M1 G3 R2 S
+Suddha Sārang,Janyam,29,S R2 G3 M1 P D2 N3 D2 S, S D2 P M1 R2 G3 R2 S
+Suddha Sāveri,Janyam,29,S R2 M1 P D2 S, S D2 P M1 R2 S
+Suddha Vasantha,Janyam,29,S R2 G3 M1 P N3 S, S N3 D2 N3 P M1 G3 S
+Suranandini,Janyam,29,S R2 G3 P D2 N3 S, S N3 D2 P G3 R2 S
+Suraranjani,Janyam,29,S G3 P R2 M1 D2 S, S N3 D2 P M1 G3 R2 S
+Tāndavam,Janyam,29,S G3 P D2 N3 S, S N3 D2 P G3 S
+Vallabhi,Janyam,29,S R2 G3 M1 P D2 N3 S, S N3 D2 N3 D2 P M1 P G3 M1 R2 S
+Vasanthamalai,Janyam,29,S R2 M1 P N3 S, S D2 P M1 R2 S
+Vedhāndhagamana,Janyam,29,S G3 M1 P N3 S, S N3 P M1 G3 S
+Veerapratāpa,Janyam,29,S G3 M1 P D2 S, S N3 D2 P M1 G3 R2 S
+Vilāsini,Janyam,29,S R2 G3 M1 P N3 S, S N3 P M1 G3 R2 S
+Nāganandhini,Melakarta,30,S R2 G3 M1 P D3 N3 S, S N3 D3 P M1 G3 R2 S
+Nāgabharanam,Janyam,30,S R2 G2 M1 P D3 N3 S, S N3 D3 P M1 G2 R2 S
+Gambheeravani,Janyam,30,S G3 P M1 D3 N3 S, S N3 P M1 G3 R2 G3 R2 S
+Lalithagāndharva,Janyam,30,S R2 G3 M1 P D3 N3 S, S N3 P G3 R2 S
+Sāmanta,Janyam,30,S R2 G3 M1 P D3 N3 S, S N3 D3 N3 D3 P M1 G3 R2 S
+Thilang,Janyam,30,S G3 M1 P N3 S, S N2 P M1 G3 S
+Yāgapriyā,Melakarta,31,S R3 G3 M1 P D1 N1 S, S N1 D1 P M1 G3 R3 S
+Kalāvathi,Janyam,31,S R3 G3 M1 P D1 N1 S, S N1 D1 P M1 G3 R3 S
+Damarugapriya,Janyam,31,S R3 G3 P D1 N1 S, S N1 D1 P G3 R3 S
+Desharanjani,Janyam,31,S R3 M1 P D1 N1 S, S N1 D1 P M1 R3 S
+Deshyathodi,Janyam,31,S G2 M1 P D1 N2 S, S N2 D1 P M1 G2 R1 S
+Gānavaridhi,Janyam,31,S M1 R3 G3 M1 P D2 N2/N3 S, S D2 N2/N3 P M1 R3 S
+Kalāhamsa,Janyam,31,S R3 G3 M P D1 S, S N1 D1 P M1 G3 R3 S
+Niranjani,Janyam,31,S R3 M1 D1 N1 S, S N1 D1 M1 R3 S
+Prathāpahamsi,Janyam,31,S G3 M1 P N1 D1 N1 S, S N1 D1 P M1 G3 M1 R3 S
+Rāgavardhani,Melakarta,32,S R3 G3 M1 P D1 N2 S, S N2 D1 P M1 G3 R3 S
+Rāgachoodāmani,Janyam,32,S R3 G3 M1 P N2 S, S N2 D1 M1 R3 G3 S
+Amudagāndhāri,Janyam,32,S G3 M1 P D1 N2 S, S N2 D1 P M1 G3 R3 S
+Dhowmya,Janyam,32,S R3 G3 M1 P D1 N2 P S, S N2 D1 P M1 G3 R3 S
+Ganavaridhi,Janyam,32,S M1 R3 G3 M1 P D2 N2/N3 S, S D2 N2/N3 P M1 R3 S
+Hindoladarbār,Janyam,32,S G3 M1 P S, S N2 D1 P M1 R3 S
+Ramyā,Janyam,32,S R3 G3 M1 P D1 N2 P S, S N2 D1 P M1 G3 R3 S
+Sāmantajingala,Janyam,32,S R3 G3 M1 P D1 N2 S, S N2 P D1 N2 P M1 G3 M1 R3 G3 S
+Gangeyabhushani,Melakarta,33,S R3 G3 M1 P D1 N3 S, S N3 D1 P M1 G3 R3 S
+Gangātarangini,Janyam,33,S R3 G3 M1 P D1 N3 S, S N3 D1 P M1 M1 G3 M1 R3 S
+Vāgadeeshwari,Melakarta,34,S R3 G3 M1 P D2 N2 S, S N2 D2 P M1 G3 R3 S
+Bhogachāyā Nāttai,Janyam,34,S R3 G3 R3 G3 Mi P N2 N2 S, S N2 D2 N2 P S N2 P M1 M1 R3 S
+Bhānumanjari,Janyam,34,S R3 G3 M1 P N2 S, S N2 P M1 R3 G3 R3 S
+Chāyanāttai,Janyam,34,S R3 G3 M1 P M1 P S, S N2 D2 N2 P M1 R3 S
+Maghathi,Janyam,34,S R3 M1 P D2 N2 S, S N2 D2 P M1 R3 S
+Mohanāngi,Janyam,34,S R3 G3 P D2 S, S D2 P G3 P D2 P G3 R3 S
+Murali,Janyam,34,S R3 G3 M1 D2 N2 S, S N2 D2 M1 G3 R3 S
+Sharadabharana,Janyam,34,S M1 G3 M1 P M1 D2 N2 S, S N2 D2 M1 P M1 R3 S
+Vikhavathi,Janyam,34,S R3 G3 P D2 S, S D2 P G3 R3 S
+Shulini,Melakarta,35,S R3 G3 M1 P D2 N3 S, S N3 D2 P M1 G3 R3 S
+Shailadeshākshhi,Janyam,35,S M1 G3 P D2 S, S N3 D2 S N3 P M1 G3 S
+Dheerahindolam,Janyam,35,S G3 M1 D2 N3 S, S N3 D2 P M1 G3 R3 S
+Shokavarāli,Janyam,35,S G3 D2 N3, D2 P M1 G3 R3 S
+Chalanāttai,Melakarta,36,S R3 G3 M1 P D3 N3 S, S N3 D3 P M1 G3 R3 S
+Devanāttai,Janyam,36,S G3 M1 P S, S N3 D3 P M1 G3 R3 S
+Gambheeranāttai,Janyam,36,S G3 M1 P N3 S, S N3 P M1 G3 S
+Ganaranjani,Janyam,36,S R3 G3 M1 P M1 D3 N3 S, S N3 D3 P M1 P M1 R3 S
+Nāttai,Janyam,36,S R3 G3 M1 P D3 N3 S, S N3 P M1 R3 S
+Sālagam,Melakarta,37,S R1 G1 M2 P D1 N1 S, S N1 D1 P M2 G1 R1 S
+Sowgandhini,Janyam,37,S R1 M2 P D1 S, S N1 D1 P M2 G1 R1 S
+Bhogasāveri,Janyam,37,S R1 M2 D1 N1, D1 P M2 G1 R1 S
+Jalārnavam,Melakarta,38,S R1 G1 M2 P D1 N2 S, S N2 D1 P M2 G1 R1 S
+Jaganmohinam,Janyam,38,S R1 G1 M2 P D1 N2 S, S N2 D1 P M2 G1 R1 S
+Jaganmohana,Janyam,38,S R1 G1 M2 P D2 S, S N2 D1 P M2 G1 R1 S
+Jhālavarāli,Melakarta,39,S R1 G1 M2 P D1 N3 S, S N3 D1 P M2 G1 R1 S
+Dhālivarāli,Janyam,39,S R1 G1 M2 P D1 N3 S, S N3 D1 P M2 G1 R1 S
+Bhoopālapanchamam,Janyam,39,S G1 R1 G1 P M2 D1 S, S P D1 M G1 R1 S
+Godari,Janyam,39,S R1 G1 R1 M2 G1 M2 P D1 N3 S, S N3 D1 P M2 R1 S
+Jālasugandhi,Janyam,39,S R1 G1 M2 P D1 S, S D1 P M2 G1 R1 S
+Janāvali,Janyam,39,S G2 R1 G2 M2 P D1 N3 D1 S, S N3 D1 P M2 G2 R1 S
+Karunāmritavarshini,Janyam,39,S R1 G1 M2 P D1 N3 P S, S N3 D1 M2 G1 R1 S
+Kokilapanchamam,Janyam,39,S G1 R1 G1 P D1 N3 S, S N3 D1 P M2 G1 R1 S
+Varāli,Janyam,39,S G1 R1 G1 M2 P D1 N3 S, S N3 D1 P M2 G1 R1 S
+Navaneetham,Melakarta,40,S R1 G1 M2 P D2 N2 S, S N2 D2 P M2 G1 R1 S
+Nabhomani,Janyam,40,S G1 R1 G1 M2 P S, S N2 D2 P M2 G1 R1 S
+Pāvani,Melakarta,41,S R1 G1 M2 P D2 N3 S, S N3 D2 P M2 G1 R1 S
+Kumbhini,Janyam,41,S G1 R1 G1 M2 P N3 D2 N3 S, S N3 D2 P M2 G1 R1 S
+Chandrajyothi,Janyam,41,S R1 G1 M2 P D2 S, S D2 P M2 G1 R1 S
+Prabhāvali,Janyam,41,S R1 M2 P D2 N3 S, S N3 D2 M2 P M2 R1 G1 R1 S
+Poornalalitha,Janyam,41,S R1 M2 G1 R1 M2 P N3 D2 N3 S, S N3 D2 P M2 G1 R1 S
+Poornapanchamam,Janyam,41,S R1 G1 M2 P D2, D2 P M2 G1 R1 S
+Raghupriyaa,Melakarta,42,S R1 G1 M2 P D3 N3 S, S N3 D3 P M2 G1 R1 S
+Ravi Kriyā,Janyam,42,S G1 R1 G1 M2 P D3 N3 S, S N3 P M2 G1 R1 S
+Gāndharva,Janyam,42,M2 P D3 N3 S R1 G1, R1 S N3 P M2 P
+Gomathi,Janyam,42,S R1 G1 M2 P D3 N3, P M2 G1 R1 S
+Raghuleela,Janyam,42,S M2 R1 P M2 G1 M2 P M2 R1 M2 P N3 S, S N3 D3 N3 P M2 G1 M2 R1 M2 G1 R1 S
+Ghavāmbhodi,Melakarta,43,S R1 G2 M2 P D1 N1 S, S N1 D1 P M2 G2 R1 S
+Geervāni,Janyam,43,S R1 G2 M2 P D1 N1 S, S N1 D1 P M2 G2 R1 S
+Kanchanabowli,Janyam,43,S G2 M2 P D1 S, S N1 D1 P M1 G2 R1 S
+Mahathi,Janyam,43,S G2 M2 P D1 N1 S, S N1 D1 P M2 G2 S
+Mechagāndhāri,Janyam,43,S R3 G3 M1 P D2 N2 S, S N2 D2 N2 P M1 G3 M1 R3 S
+Suvarnadeepakam,Janyam,43,S R1 G2 M2 P D1 S, S D1 P M2 G2 R1 S
+Vijayabhooshāvali,Janyam,43,S R1 G3 M2 P S, S N3 D3 P M2 G3 R1 S
+Bhavapriya,Melakarta,44,S R1 G2 M2 P D1 N2 S, S N2 D1 P M2 G2 R1 S
+Bhavāni,Janyam,44,S R1 G2 M2 P D1 P N2 S, S N2 D1 P M2 G2 R1 S
+Kanchanāvathi,Janyam,44,S R1 G2 M2 P N2 S, S N2 P M2 G2 R1 S
+Shubhapanthuvarāli,Melakarta,45,S R1 G2 M2 P D1 N3 S, S N3 D1 P M2 G2 R1 S
+Shivapanthuvarāli,Janyam,45,S R1 G2 M2 P D1 N3 S, S N3 D1 P M2 G2 R1 S
+Arunāngi,Janyam,45,S R1 M2 P N3 D1 S, S N3 D1 M2 R1 G2 R1 S
+Bandhuvarāli,Janyam,45,S M2 S N3 D1 P M2, D1 M2 G2 R1 S
+Bhānudhanyāsi,Janyam,45,S R1 G2 M2 N3 D1 N3, D1 P M2 G2 R1 S N3 S
+Bhānukeeravāni,Janyam,45,S R1 G2 M2 P D1 N3 S, S N3 D1 M2 G2 R1 S
+Chāyaranjani,Janyam,45,S G2 M2 P N2 S, S N2 D1 P M2 G2 S
+Dhowreyani,Janyam,45,S R1 G2 M2 N3 S, S N3 D1 P M2 G2 R1 S
+Hindusthāni Todi,Janyam,45,N3 R1 G2 M2 D1 N3 S, S N3 D1 P M2 G2 R1 S
+Jālakesari,Janyam,45,S R1 M2 P D1 N3 S, S D1 P M2 R1 S
+Kumudhachandrikā,Janyam,45,S G2 M2 D1 S, S N3 D1 M2 G2 R1 S
+Mahānandhini,Janyam,45,S M2 G2 M2 P D1 N3 S, S D1 N3 D1 P M2 G2 R1 S
+Parpathi,Janyam,45,S G2 M2 P N3 S, S N3 P M2 G2 S
+Shekharachandrikā,Janyam,45,S R1 G2 M2 D1 N3 S, S N3 D1 M2 G2 R1 S
+Shadvidhamārgini,Melakarta,46,S R1 G2 M2 P D2 N2 S, S N2 D2 P M2 G2 R1 S
+Sthavarājam,Janyam,46,S R1 M2 P D2 S, S N2 D2 M2 G2 S
+Ganahemāvati,Janyam,46,S G2 M2 P N2 S, S N2 D2 P M2 G2 S
+Indhudhanyāsi,Janyam,46,S G2 M2 D2 N2 S, S N2 D2 P D2 M2 G2 R1 S
+Shreekānti,Janyam,46,S G2 M2 P D2 N2 S, S N2 D2 P M2 G2 S
+Teevravāhini,Janyam,46,S R1 G2 M2 P D2 P N2 S, S N2 D2 P M2 G2 R1 G2 M2 R1 S
+Suvarnāngi,Melakarta,47,S R1 G2 M2 P D2 N3 S, S N3 D2 P M2 G2 R1 S
+Sowveeram,Janyam,47,S R1 G2 M2 P D2 N3 S, S N3 D2 P M2 G2 R1 S
+Abhiru,Janyam,47,S R1 G2 R1 M2 P N3 S, S D2 P M2 G2 R1 G2 S
+Rathikā,Janyam,47,S M2 G2 M2 P D2 N3 S, S N3 D2 P M2 G2 R1 S
+Vijayashree,Janyam,47,S R1 G2 M2 P N2 S, S N2 P M2 G2 R1 S
+Divyamani,Melakarta,48,S R1 G2 M2 P D3 N3 S, S N3 D3 P M2 G2 R1 S
+Jeevanthikā,Janyam,48,S M2 P D3 N3 S, S N3 P M2 G2 S
+Deshamukhāri,Janyam,48,S R1 G2 M2 P D3 N3 D3 S, S D3 N3 D3 P M2 G2 R1 S
+Dundubi,Janyam,48,S R1 G2 M2 P D3 N3 S, S N3 P M2 G2 R1 S
+Jeevanthini,Janyam,48,S M2 P D3 N3 S, S N3 P M2 G2 S
+Suddha Gāndhāri,Janyam,48,S R1 G2 M2 N3 S, S N3 D3 N3 S N3 P M2 R1 S
+Dhavalāmbari,Melakarta,49,S R1 G3 M2 P D1 N1 S, S N1 D1 P M2 G3 R1 S
+Dhavalāngam,Janyam,49,S R1 G3 M2 P D1 S, S N1 D1 P M2 G3 R1 S
+Abhirāmam,Janyam,49,S R1 M2 P D1 N1 S, S N1 D1 P M2 G2 R1 S
+Bhinnapauarali,Janyam,49,S M2 P D1 N1 D1 S, S N1 D1 P M2 G3 S
+Dharmini,Janyam,49,S R1 G3 M2 D1 N1 S, S N1 D1 M2 G3 R1 S
+Sudharmini,Janyam,49,S R1 M2 P D1 N1 S, S N1 D1 M1 G3 R2 S
+Nāmanārāyani,Melakarta,50,S R1 G3 M2 P D1 N2 S, S N2 D1 P M2 G3 R1 S
+Nāmadeshi,Janyam,50,S R1 G3 M2 P D1 N2 S, S N2 D1 P M2 G3 R1 S
+Mandāri,Janyam,50,S R1 G3 M2 P N2 S, S N2 P M2 G3 R1 S
+Narmada,Janyam,50,S R1 G3 M2 D1 N2 S, S N2 D1 M2 P M2 G3 R1 S
+Swaramanjari,Janyam,50,S G3 M2 P D1 S, S N2 D1 P M2 G3 S
+Panthuvarāli (Kāmavardhani),Melakarta,51,S R1 G3 M2 P D1 N3 S, S N3 D1 P M2 G3 R1 S
+Kāshirāmakriyā,Janyam,51,S G3 R1 G3 M2 P D1 N3 S, S N3 D1 P M1 G3 R1 S
+ādhi Panchama,Janyam,51,S R1 P D1 N3 S, S N3 D1 N3 P M2 G3 R1 S
+Basant Bahār,Janyam,51,S M2 P G3 M2 N3 D1 N3 S, R2 S N2 D2 P M1 G2 M1 G2 R2 S
+Bhogavasantha,Janyam,51,S R1 G3 M2 D1 N3 S, S N3 D1 M2 G3 R1 S
+Deepakam,Janyam,51,S R2 M2 P D1 P S, S N3 D1 N3 P M2 G3 R1 S
+Gamakapriyā,Janyam,51,S R1 G3 M2 P N3 D1 S, S D1 P M2 G3 R1 S
+Gamanapriyā,Janyam,51,S R1 G3 M2 P N3 D1 S, S D1 P M2 G3 R1 S
+Hamsanārāyani,Janyam,51,S R1 G3 M2 P S, S N3 P M2 G3 R1 S
+Indumathi,Janyam,51,S G3 M2 D1 N3 S, S N3 D1 P M2 G3 S
+Kamalāptapriyā,Janyam,51,S R1 G3 M2 P D1 S, S D1 P M2 G3 R1 S
+Kumudhakriyā,Janyam,51,S R1 G3 M2 D1 S, S N3 D1 M2 G3 R1 S
+Māruthi,Janyam,51,S R1 M2 P N3 S, S N3 D1 P M2 G3 R1 S
+Ponni,Janyam,51,S G3 M2 P N3 S, S N3 P M2 G3 R1 S
+Prathāpa,Janyam,51,S G3 M2 D1 N3 S, S N3 D P M2 G3 R1 S
+Puriya Dhanashree,Janyam,51,N3 R1 G3 M2 P D1 P N3 S, R1 N3 D1 P M2 G3 M2 R1 G3 R1 S
+Tāndavapriyā,Janyam,51,S R1 G3 M2 P S, S P M2 G3 R1 S
+Rāmapriyā,Melakarta,52,S R1 G3 M2 P D2 N2 S, S N2 D2 P M2 G3 R1 S
+Ramāmanohari,Janyam,52,S R1 G3 M2 P D2 S, S N2 D2 P M2 G3 R1 S
+Chintaramani,Janyam,52,S G3 M2 P D2 N2 S, S D2 P M2 G3 R1 S
+Hamsagamini,Janyam,52,S G3 M2 P D2 N2 S, S N2 D2 P M2 D2 P M2 G3 R1 S
+Lokaranjani,Janyam,52,S G3 M2 P M2 D2 N2 S, S N2 D2 N2 P M2 G3 R1 S
+Meghashyāmala,Janyam,52,S G3 M2 P D2 N2 D2 P S, S N2 D2 P M2 G3 R1 S
+Patalāmbari,Janyam,52,S R1 G3 M2 D2 S, S D2 M2 G3 R1 S
+Raktimārgini,Janyam,52,S P M2 D2 N2 S, S N2 D2 P M2 P G3 R1 S
+Rasavinodini,Janyam,52,S G3 M2 P D2 N2 S, S N2 D2 P M2 G3 S
+Reethi Chandrikā,Janyam,52,S R1 G3 M2 P D2 S, S N2 D2 P M2 G3 R1 S
+Seemantinipriyā,Janyam,52,S R1 G3 M2 D2 N2 S, S N2 D2 M2 G3 R1 S
+Sukhakari,Janyam,52,S R1 S P D2 N2 S, S N2 D2 P M2 G3 S R1 S
+Vedhaswaroopi,Janyam,52,S R1 G3 M2 P D2 N3 P S, S N3 D2 Pn3 P M2 G3 S
+Gamanashrama,Melakarta,53,S R1 G3 M2 P D2 N3 S, S N3 D2 P M2 G3 R1 S
+Gamakakriyā,Janyam,53,S R1 G3 M2 P D2 S, S N3 D2 P M2 G3 R1 S
+Alankāri,Janyam,53,S G3 M2 D2 N3 D2 S, S N3 D2 M2 G3 S
+Bhatiyār,Janyam,53,S D2 P D2 M2 P G3 M2 D2 S, R1 N3 D2 P M2 P G3 R1 S
+Dvigāndhārabhooshani,Janyam,53,S R1 G2 G3 G2 P D2 S, S D2 P G2 G3 G2 R1 S D2 S
+Hamsānandi,Janyam,53,S R1 G3 M2 D2 N3 S, S N3 D2 M2 G3 R1 S
+Mechakāngi,Janyam,53,S R1 G3 M2 P D2 P N3 S, S N3 P D2 P M2 G3 R1 S
+Padmakalyāni,Janyam,53,S G3 P N3 S, S N3 D2 P M2 G3 S
+Poorvi Kalyāni,Janyam,53,S R1 G3 M2 P D2 P S, S N3 D2 P M2 G3 R1 S
+Sharabadhvāja,Janyam,53,S R1 G3 M2 P D2 S, S D2 P G3 R1 S
+Sohini,Janyam,53,S G3 M2 D2 N3 S, S N3 D2 M2 G3 R1 S
+Vaishaka,Janyam,53,S R1 G3 M2 P D2 N3 S, S N3 D2 N3 P M2 G3 M2 R1 S
+Vishvāmbhari,Melakarta,54,S R1 G3 M2 P D3 N3 S, S N3 D3 P M2 G3 R1 S
+Vamshavathi,Janyam,54,S R1 G3 M2 P D3 N3 S, S N3 P M2 G3 R1 S
+Hemāngi,Janyam,54,S R1 G3 M2 D3 S, S D3 M2 G3 R1 S
+Pooshakalyāni,Janyam,54,S R1 G3 M2 P D3 N3 S, S N3 P M2 G3 R1 S
+Sharadhyuthi,Janyam,54,S R1 G3 M2 P D3 N3 D3 S, S N3 D3 P M2 G3 R1 S
+Suddhakriyā,Janyam,54,S R1 M2 M2 P D3 S, S D3 P M2 G3 R1 S
+Sundarāngi,Janyam,54,S R1 G3 P D3 N3 S, S N3 D3 P G3 R1 S
+Vijayavasantham,Janyam,54,S M2 P D3 N3 S, S N3 P M2 G3 S
+Shyāmalāngi,Melakarta,55,S R2 G2 M2 P D1 N1 S, S N1 D1 P M2 G2 R2 S
+Shyāmalam,Janyam,55,S R2 G2 M2 P D1 N1 S, S N1 D1 P M2 G2 R2 S
+Deshāvali,Janyam,55,S R2 G2 M2 D1 N1 D1 S, S N1 D1 M2 G2 R2 S
+Vijayamālavi,Janyam,55,S R2 M2 P D1 S, S N1 D1 P M2 R2 S
+Shanmukhapriyaa,Melakarta,56,S R2 G2 M2 P D1 N2 S, S N2 D1 P M2 G2 R2 S
+Chāmaram,Janyam,56,S R2 G2 M2 P D1 N2 S, S N2 D1 P M2 G2 R2 S
+Bhāshini,Janyam,56,S G2 R2 G2 M2 P D1 N2 S, S N2 D1 P M2 G2 R1 S
+Chintāmani,Janyam,56,S G2 R2 G2 M2 G2 R2 G2 P M2 P D2 N2 S, S N2 D2 P M2 G2 R2 S
+Dhanakari,Janyam,56,S G2 P D1 N2 S, S N2 D1 M2 G2 S
+Garigadya,Janyam,56,N2 S G2 M2 P D1 N2, D1 P M2 G2 R2 S
+Gopikathilakam,Janyam,56,S R2 G2 M2 P N2 S, S N2 P M2 G2 R2 S
+Kokilanandhi,Janyam,56,S G2 M2 D1 N2 S, S N2 D1 P M2 G2 S
+Rājeshwari,Janyam,56,S R2 G2 P N2 S, S N2 D1 P M1 G2 S
+Samudrapriyā,Janyam,56,S G2 M2 P N2 S, S N2 P M2 G2 S
+Shanmukhi (Trimoorti),Janyam,56,S R1 G2 M2 D1 N2 S, S N2 D1 M2 G2 R1 S
+Sumanesharanjani,Janyam,56,S G2 M2 P N2 S, S N2 P M2 G2 S
+Vasukari,Janyam,56,S G2 M2 P D1 N2 S, S N2 D1 M2 G2 S
+Simhendra Madhyamam,Melakarta,57,S R2 G2 M2 P D1 N3 S, S N3 D1 P M2 G2 R2 S
+Sumadyuthi,Janyam,57,S R2 G2 M2 P D1 N3 S, S N3 D1 P M2 G2 R2 S
+Ānandavalli,Janyam,57,S G2 M2 P N3 S, S N3 P M2 G2 S
+Ghantana,Janyam,57,S R2 G2 M2 D1 N3 S, S N3 D1 M2 G2 R2 S
+Jayachoodāmani,Janyam,57,S G2 M2 P D1 S, S N3 D1 P M2 G2 R2 S
+Pranavapriyā,Janyam,57,S R2 M2 P N3 S, S N3 P M2 G2 R2 S
+Sarvāngi,Janyam,57,S R2 M2 D1 N3 S, S N3 D1 M2 G2 S R3 S
+Seshanādam,Janyam,57,S R2 G2 M2 P D1 S, S N3 D1 P M2 G2 R2 S
+Suddha,Janyam,57,S R2 G2 M2 P N3 S, S N3 P M2 G2 R2 S
+Sunādapriyā,Janyam,57,S R2 G2 M2 P S, S N3 D1 P M2 G2 R2 S
+Urmikā,Janyam,57,S R2 G2 M2 P N3 S, S N3 P M2 G2 R2 S
+Vijayasaraswathi,Janyam,57,S G2 M2 P D1 N3 S, S N3 P M2 G2 R2 S
+Hemavathi,Melakarta,58,S R2 G2 M2 P D2 N2 S, S N2 D2 P M2 G2 R2 S
+Deshisimhāravam,Janyam,58,S R2 G2 M2 P D2 N2 S, S N2 D2 P M2 G2 R2 S
+Chandrarekhā,Janyam,58,S R2 G2 M2 P D2 S, S N2 D2 M2 G2 R2 S
+Hamsabhramari,Janyam,58,S R2 G2 M2 P D2 S, S N2 D2 P M2 G2 R2 S
+Hemāmbari,Janyam,58,S R2 G2 M2 P D2 N2 S, S P M2 G2 R2 S
+Hemapriya,Janyam,58,S R2 G2 M2 D2 S, S D2 M2 G2 R2 S
+Kshemakari,Janyam,58,S R2 M2 D2 N2 S, S N2 D2 M2 R2 S
+Madhukowns,Janyam,58,S G2 M2 P N2 P S, S N2 P M2 G3 S
+Shakthiroopini,Janyam,58,S G2 M2 D2 S, S N2 D2 M2 G2 S
+Simhārava,Janyam,58,S R2 M2 P N2 S, S N2 P M2 R2 G2 R2 S
+Vijayasāranga,Janyam,58,S R2 G2 M2 P D2 S, S N2 D2 M2 G2 R2 S
+Vijayashrāngi,Janyam,58,S R2 G2 M2 P D2 S, S N2 D2 M2 G2 R2 S
+Yāgini,Janyam,58,S R2 M2 P N2 S, S N2 P M2 R2 S
+Dharmavathi,Melakarta,59,S R2 G2 M2 P D2 N3 S, S N3 D2 P M2 G2 R2 S
+Dhāmavathi,Janyam,59,S R2 G2 M2 P D2 N3 S, S N3 D2 P M2 G2 R2 S
+Gowrikriya,Janyam,59,S G2 M2 P D2 N3 S, S N3 D2 N3 P M2 G2 S
+Karmukhāvati,Janyam,59,S R2 G2 M2 D2 N3 S, S N3 D2 M2 G2 R2 S
+Karpoora Bharani,Janyam,59,S R2 G2 P M2 P D2 S, S D2 P M2 P G2 R2 S
+Lalitasimharavam,Janyam,59,S R2 G2 M2 P S, S N3 P M2 G2 R2 S
+Madhumālathi,Janyam,59,N3 S G2 M2 P S, S N3 D2 P M2 G2 R2 S
+Madhuvanthi,Janyam,59,S G2 M2 P N3 S, S N3 D2 P M2 G2 R2 S
+Moharanjani,Janyam,59,S R2 G2 P D2 S, S N3 D2 M2 G2 S
+Ranjani,Janyam,59,S R2 G2 M2 D2 S, S N3 D2 M2 G2 S R2 G2 S
+Varada,Janyam,59,S R2 M2 P N3 S, S N3 P M2 R2 S
+Vijayanāgari,Janyam,59,S R2 G2 M2 P D2 S, S D2 P M2 G2 R2 S
+Vishveshwarapriyā,Janyam,59,S R2 M2 P N3 S, S N3 D2 P M2 R2 S
+Neethimathi,Melakarta,60,S R2 G2 M2 P D3 N3 S, S N3 D3 P M2 G2 R2 S
+Nisshadham,Janyam,60,S R2 G2 M2 P D3 N3 S, S N3 P M2 G2 R2 S
+Amarasenapriyā,Janyam,60,S R2 M2 P N2 S, S N3 P M2 G2 R2 S
+Deshyagānavaridhi,Janyam,60,S R2 G2 M2 P D3 N3 P S, S N3 S P M2 G2 R2 S
+Hamsanādham,Janyam,60,S R2 M2 P D3 N3 S, S N3 D3 P M2 R2 S
+Hamsanādham,Janyam,60,S R2 M2 P N3 S, S N3 P M2 R2 S
+Kaikavashi,Janyam,60,S R2 G2 M2 P D3 N3 S, S N3 P M2 G2 R2 S
+Nuthanachandrikā,Janyam,60,S R2 G2 M2 P D3 N3 S, S N3 P D3 N3 P M2 G2 S
+Rathnasāranga,Janyam,60,S R2 G2 M2 P N3 S, S N3 D3 P M2 G2 R2 S
+Kānthāmani,Melakarta,61,S R2 G3 M2 P D1 N1 S, S N1 D1 P M2 G3 R2 S
+Kunthalam,Janyam,61,S R2 G3 M2 P D1 S, S N1 D1 P M2 G3 R2 S
+Kanakakusumāvali,Janyam,61,S R2 G3 M2 P D2 S, S D2 P M2 G3 R2 S
+Shruthiranjani,Janyam,61,S R2 G3 M2 P D1 N1, N1 D1 P M2 G3 R2 S
+Rishabhapriya,Melakarta,62,S R2 G3 M2 P D1 N2 S, S N2 D1 P M2 G3 R2 S
+Rathipriyā,Janyam,62,S R2 G3 M2 P D1 N2 S, S N2 D1 P M2 G3 R2 S
+Gopriya,Janyam,62,S R2 G3 M2 D1 N2 S, S N3 D1 M2 G3 R2 S
+Poornasāveri,Janyam,62,S R2 M2 P D1 S, S N2 D1 P M2 G3 R2 S
+Rathnabhānu,Janyam,62,S R2 M2 P N2 D1 N2 S, S N2 D1 P M2 G3 R2 S
+Suddha Sāranga,Janyam,62,S G M2 P N2 S, S D1 P M2 G3 S
+Lathāngi,Melakarta,63,S R2 G3 M2 P D1 N3 S, S N3 D1 P M2 G3 R2 S
+Geethapriyā,Janyam,63,S R2 G3 M2 P D1 N3 S, S N3 D1 P M2 G3 R2 S
+Chitrachandrika,Janyam,63,S G3 R2 G3 M2 P N3 D1 S, S N3 D1 M2 G3 R2 S
+Hamsalatha,Janyam,63,S R2 G3 P N3 S, S N3 D1 P M2 G3 R2 S
+Kananapriyā,Janyam,63,S R2 G3 M2 P M2 D1 N3 S, S D1 N3 P M2 G3 R2 S
+Karunākari,Janyam,63,S M2 P D1 N3 D1 S, S N3 D1 P M2 S
+Lalithāngi,Janyam,63,S R2 G3 M2 D1 N3 S, S N3 D1 M2 G3 R2 S
+Ramani,Janyam,63,S G3 M2 P N3 S, S N3 D1 P M2 G3 S
+Rathnakānthi,Janyam,63,S R2 G3 M2 P N3 S, S N3 P M2 G3 R2 S
+Raviswaroopini,Janyam,63,S G3 M2 P D1 N3 S, S N3 D1 P M2 G3 S
+Sajjananandhi,Janyam,63,S R2 G3 M2 P D1 N3 S, S N3 D1 M2 G3 R2 S
+Skandamanorama,Janyam,63,S R2 M2 P N3 S, S N3 P M2 R2 S
+Vāchaspathi,Melakarta,64,S R2 G3 M2 P D2 N2 S, S N2 D2 P M2 G3 R2 S
+Bhooshāvathi,Janyam,64,S R2 G3 M2 P D2 N2 S, S N2 D2 P M2 G3 R2 S
+Bhagavataranjana,Janyam,64,S R2 M2 P D2 N2 S, S N2 D2 P M2 G3 R2 S
+Bhogeeshwari,Janyam,64,S R2 G3 P D2 N2 D2 S, S N2 D2 P M2 G3 R2 S
+Bhooshāvali,Janyam,64,S R2 G3 M2 P D2 S, S N2 D2 P M2 G3 R2 S
+Dwigāndhārabhooshani,Janyam,64,S R1 G2 G3 G2 P D2 S, S D2 P G2 G3 G2 R1 S D2 S
+Gaganamohini,Janyam,64,S G3 P D2 N2 S, S N2 P M2 G3 S
+Gurupriya,Janyam,64,S R2 G3 M2 D2 N2 S, S N2 D2 M2 G3 R2 S
+Hrdhini,Janyam,64,S G3 M2 P N2 S, S N2 P M2 G3 S
+Mangalakari,Janyam,64,S R2 P M2 P D2 N2 S, S N2 D2 P G3 R2 S
+Mukthidāyini,Janyam,64,S G3 M2 P D2 N2 S, S N2 D2 P M2 G3 S
+Nādhabrahma,Janyam,64,S P M2 P D2 N2 S, S N2 D2 P M2 G3 S
+Pranavākāri,Janyam,64,P N2 D2 N2 S R2 G3 M2, P M2 G3 R2 S N2 D2 N2 P
+Saraswathi,Janyam,64,S R2 M2 P D2 S, S N2 D2 P M2 R2 S
+Triveni,Janyam,64,S R2 M2 P D2 N2 S, S N2 D2 P M2 R2 S
+Utthari,Janyam,64,S G3 M2 P D2 N2 S, S N2 D2 M2 G3 S
+Vivāhapriyā,Janyam,64,S R2 M2 P D2 N3 S, S N3 D2 P M2 R2 S
+Mechakalyāni,Melakarta,65,S R2 G3 M2 P D2 N3 S, S N3 D2 P M2 G3 R2 S
+Shānthakalyāni,Janyam,65,S R2 G3 M2 P D2 N3 S, S N3 D2 P M2 G3 R2 S
+Amritha Behāg,Janyam,65,S M2 G3 P N3 S, D N3 D2 M2 G3 S
+Aprameya,Janyam,65,S R2 M2 P D2 S, S N3 D2 M2 G3 M2 R2 S
+Bhoopkalyāni,Janyam,65,S R2 G3 P D2 S, S N3 D2 P M2 G3 R2 S
+Chandrakāntha,Janyam,65,S R2 G3 M2 P D2 N3 S, S N3 D2 N3 P M2 G3 R2 S
+"Hameer (Kalyan, Yaman Thāt Janya)",Janyam,65,S R2 S G3 M1 D2 N3 D2 S, S N3 D2 N2 P G3 M1 D2 M2 P D2 P G3 M1 R2 S
+Hameer Kalyāni,Janyam,65,S P M2 P D2 N3 S, S N3 D2 P M2 M1 G3 P M1 R2 S
+Hameer Kalyāni,Janyam,65,S R2 S P M2 P D2 N3 S, S N3 D2 P M2 G3 M1 G3 R2 S
+Hameer Kalyāni,Janyam,65,S R2 S P M2 N3 D2 S N3 S, S N3 D2 P M2 G M1 R2 S
+Hameer Kalyāni,Janyam,65,S R2 G3 M2 P D2 N3 P D2 P S, S N3 D2 P G3 M1 G3 R2 S
+Hameer Kalyāni,Janyam,65,S P M2 P D2 N3 S, S N3 D2 P G3 M1 G3 R2 S
+Hamsakalyāni,Janyam,65,S R2 G3 P N3 S, S N3 D2 P M2 G3 R2 S
+Kalyānadāyini,Janyam,65,S R2 G3 M2 D2 N3 S, S N3 D2 M2 G3 R2 S
+Kannadamaruva,Janyam,65,S G3 M2 P D2 N3 S, S N3 D2 P M2 G3 S
+Kowmoda,Janyam,65,S R2 G3 M2 N3 S, S N3 P M2 G3 S
+Kunthalashreekānti,Janyam,65,S G3 M2 P D2 N3 S, S N3 P M2 G3 R2 S
+Mohana Kalyāni,Janyam,65,S R2 G3 P D2 S, S N3 D2 P M2 G3 R2 S
+Mrgānandhana,Janyam,65,S R2 G3 D2 N3 S, S N3 D2 M2 D2 G3 R2 S
+Nādhakalyāni,Janyam,65,S G3 M2 D2 N3 S, S N3 D2 M2 G3 M2 R2 S
+Pramodhini,Janyam,65,S G3 M2 P D2 S, S D2 P M2 G3 S
+Sāranga,Janyam,65,S R2 G3 M2 P D2 N3 S, S N3 D2 P M2 R2 G3 M1 R2 S
+Sāranga,Janyam,65,S R2 S P M2 P D2 N3 S, S N3 S D2 P M2 R2 G3 M1 R2 S
+Sāranga,Janyam,65,S P M2 P D2 N3 S, S N3 D2 P M2 R2 G3 M1 R2 S
+Sāranga Tārangini,Janyam,65,S R2 M2 P D2 N3 S, S N3 D2 P M2 R2 S
+Shilangi,Janyam,65,S G2 M2 P N3 S, S N3 P M2 G2 S
+Suddha Koshala,Janyam,65,S G3 M2 P S, S N3 D2 M2 G3 R2 S
+Sunādavinodini,Janyam,65,S G3 M2 D2 N3 S, S N3 D2 M2 G3 S
+Swayambhooshwara Rāga,Janyam,65,S G3 P S, S P G3 S
+Vandanadhārini,Janyam,65,S R2 M2 P D2 S, S D2 P M2 R2 S
+Yaman,Janyam,65,S R2 G3 M2 P D2 N3 S, S N3 D2 P M2 G3 R2 S
+Yaman Kalyāni,Janyam,65,S R2 G3 M2 P D2 N3 S, S N3 D2 P M2 G3 M1 G3 R2 S
+Yamunā Kalyāni,Janyam,65,S R2 G3 P M2 P D2 S, S D2 P M2 P G3 R2 S
+Chitrāmbari,Melakarta,66,S R2 G3 M2 P D3 N3 S, S N3 D3 P M2 G3 R2 S
+Chaturāngini,Janyam,66,S R2 G3 M2 P N3 S, S N3 D3 N3 P G3 M2 G3 R2 S
+Amritavarshini,Janyam,66,S G3 M2 P N3 S, S N3 P M2 G3 S
+Chitrasindhu,Janyam,66,S G3 M2 P N3 S, S N3 D3 P M2 G3 R2 S
+Churnikavinodhini,Janyam,66,S R2 G3 M2 P D3 N3 S, S N3 D3 N3 P M2 G3 R2 S
+Vijayakoshalam,Janyam,66,S R2 G3 M2 P S, S N3 P M2 G3 S
+Sucharitra,Melakarta,67,S R3 G3 M2 P D1 N1 S, S N1 D1 P M2 G3 R3 S
+Santhāna Manjari,Janyam,67,S R3 G3 M2 P D1 S, S N1 D1 P M2 R3 S
+Jyothiswaroopini,Melakarta,68,S R3 G3 M2 P D1 N2 S, S N2 D1 P M2 G3 R3 S
+Jyothi,Janyam,68,S R3 G3 M2 P D1 N2 S, S N2 D1 P M2 G3 S
+Deepavarāli,Janyam,68,S R3 M2 P N2 S, S N2 P M2 G3 R3 S
+Jyothishmathi,Janyam,68,S R3 G3 M2 P S, S N2 D1 M2 P M2 G3 R3 S
+Rāmagiri,Janyam,68,S R3 M2 G3 M2 P D1 N2 S, S D1 N2 D1 P M2 G3 R3 S
+Dhātuvardhani,Melakarta,69,S R3 G3 M2 P D1 N3 S, S N3 D1 P M2 G3 R3 S
+Dhowtha Panchamam,Janyam,69,S R3 G3 M2 P N3 P S, S N3 D1 P M2 R3 G3 M2 R3 S
+Dhwithiyapanchamam,Janyam,69,S R3 G3 M2 P N3 P S, S N3 D1 P M2 R3 M3 G3 R3 S
+Sumukham,Janyam,69,S R3 M2 N3 S, S N3 M2 R3 S
+Tavapriyā,Janyam,69,S R3 M2 P N3 S, S N3 D1 P M2 G3 R3 S
+Nāsikabhooshhani,Melakarta,70,S R3 G3 M2 P D2 N2 S, S N2 D2 P M2 G3 R3 S
+Nāsāmani,Janyam,70,S R3 G3 M2 P D2 N2 S, S N3 D2 P M2 G3 R3 S
+Marakathagowla,Janyam,70,S R3 M2 P D2 N2 S, S N2 D2 P M2 G3 R3 S
+Thilakamandāri,Janyam,70,S R3 M2 P D2 S, S D2 P M2 G3 R3 S
+Kosalam,Melakarta,71,S R3 G3 M2 P D2 N3 S, S N3 D2 P M2 G3 R3 S
+Kusumākaram,Janyam,71,S R3 G3 M2 P D2 N3 S, S N3 D2 P M2 G3 R3 S
+Ayodhya,Janyam,71,S G3 M2 P N3 S, S D2 P M2 G3 M2 R3 S
+Rasikapriya,Melakarta,72,S R3 G3 M2 P D3 N3 S, S N3 D3 P M2 G3 R3 S
+Rasamanjari,Janyam,72,S R3 G3 M2 P D3 N3 S, S N3 D3 P M2 G3 R3 S
+Hamsagiri,Janyam,72,S R3 G3 M2 P D3 N3 S, S N3 P D3 N3 P M2 G3 S
+Ishtārangini,Janyam,72,S R3 M2 P N3 S, S N3 D3 P M2 G3 R3 S
+Nāgagiri,Janyam,72,S G3 M2 P D2 P S, S D2 P M2 G3 S
